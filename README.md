@@ -1,6 +1,6 @@
 # Bem-vindo ao meu perfil! 🚀
 
-![Banner](https://via.placeholder.com/800x200.png?text=Bem-vindo+ao+Meu+Mundo)
+![Banner](https://www.istockphoto.com/br/foto/o-desenvolvimento-de-software-monitora-o-plano-de-fundo-da-tela-exibi%C3%A7%C3%A3o-do-gm1303486224-394923972?utm_campaign=srp_photos_noresults&utm_content=https%3A%2F%2Fwww.pexels.com%2Fsearch%2Fprograma%25C3%25A7%25C3%25A3o%2F&utm_medium=affiliate&utm_source=pexels&utm_term=programa%C3%A7%C3%A3o)
 
 ## Sobre Mim
 
