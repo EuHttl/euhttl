@@ -1,6 +1,6 @@
 # Bem-vindo ao meu perfil! 🚀
 
-![Banner](https://br.freepik.com/vetores-gratis/plano-de-fundo-realista-em-estilo-futurista_19256531.htm#query=background%20tecnologia&position=3&from_view=keyword&track=ais_hybrid&uuid=dbd3f6e9-ae69-46c4-8527-21454133a074)
+![Banner](https://images.unsplash.com/photo-1547658714-da2b51169166)
 
 ## Sobre Mim
 
