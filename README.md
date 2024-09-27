@@ -1,6 +1,6 @@
 # Bem-vindo ao meu perfil! 🚀
 
-![Banner](https://www.techsmith.com/blog/wp-content/uploads/2021/10/Programming-Banner.png)
+![Banner](https://miro.medium.com/max/1400/1*ZSVmWGcc1sdt6vE-9AUbOA.png)
 
 ## Sobre Mim
 
