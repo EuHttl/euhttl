@@ -1,6 +1,6 @@
 # Bem-vindo ao meu perfil! 🚀
 
-![Banner](https://images.unsplash.com/photo-1547658714-da2b51169166)
+![Banner](https://images.unsplash.com/photo-1517430816045-df4b7de01f16)
 
 ## Sobre Mim
 
