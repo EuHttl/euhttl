@@ -1,6 +1,6 @@
 # Bem-vindo ao meu perfil! 🚀
 
-![Banner](https://images.pexels.com/photos/270348/pexels-photo-270348.jpeg)
+<img src="https://images.pexels.com/photos/270348/pexels-photo-270348.jpeg" alt="Banner" width="800" height="200">
 
 ## Sobre Mim
 
