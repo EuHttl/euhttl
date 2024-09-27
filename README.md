@@ -1,6 +1,6 @@
 # Bem-vindo ao meu perfil! 🚀
 
-![Banner](https://miro.medium.com/max/1400/1*ZSVmWGcc1sdt6vE-9AUbOA.png)
+![Banner](https://www.simplilearn.com/ice9/free_resources_article_thumb/what_is_programming.jpg)
 
 ## Sobre Mim
 
