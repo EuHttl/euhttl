@@ -1,6 +1,6 @@
 # Bem-vindo ao meu perfil! 🚀
 
-![Banner](https://via.placeholder.com/1200x300.png?text=Technology+and+Programming)
+![Banner](https://www.section.io/engineering-education/history-of-nodejs/technology-banner.jpeg)
 
 ## Sobre Mim
 
