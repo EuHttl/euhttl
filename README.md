@@ -1,6 +1,6 @@
 # Bem-vindo ao meu perfil! 🚀
 
-![Banner](https://cdn.pixabay.com/photo/2017/08/06/00/29/programming-2582748_1280.jpg)
+![Banner](https://www.techsmith.com/blog/wp-content/uploads/2021/10/Programming-Banner.png)
 
 ## Sobre Mim
 
