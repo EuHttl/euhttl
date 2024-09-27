@@ -1,4 +1,5 @@
-#                          Opa ! Bem-vindo ao meu perfil 🚀  <center>
+#                          Opa! 
+#                Bem-vindo ao meu perfil 🚀
 
 <img src="https://images.pexels.com/photos/270348/pexels-photo-270348.jpeg" alt="Banner" width="800" height="200">
 
@@ -30,5 +31,7 @@
 
 - 🎮 Gamer nas horas vagas.
 - 🏀 Joguei Basquete de forma Semi-Profissional.
+
+<hr>
 
 🤘Feito por EuHttl🤘
