@@ -1,16 +1,34 @@
-## Hi there 👋
+# Bem-vindo ao meu perfil! 🚀
 
-<!--
-**EuHttl/euhttl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Banner](https://via.placeholder.com/800x200.png?text=Bem-vindo+ao+Meu+Mundo)
 
-Here are some ideas to get you started:
+## Sobre Mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🚀 Explorando novas tecnologias e desenvolvendo soluções incríveis.
+- 🎓 Aprendendo constantemente e compartilhando conhecimentos.
+- 💼 Colaborando em projetos inovadores e desafiadores.
+- 🎮 Apaixonado por basquete e tecnologias.
+
+## Conecte-se Comigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/hyttalo-costa-1991841b2/)
+
+[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/eu.httl/)
+
+## Estatísticas
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EuHttl&show_icons=true&theme=radical)
+
+## Projetos em Destaque
+
+- 🎮 [Jogo da velha](https://github.com/EuHttl/jogodavelha): um jogo descontraído com dois modos de se divertir.
+- 🌐 [Meu curriculo](https://github.com/EuHttl/Curriculo-Responsivo): mostrando um pouco da minha pessoa.
+
+
+## Curiosidades
+
+
+- 🎮 Gamer nas horas vagas.
+- 🏀 Joguei Basquete de forma Semi-Profissional.
+
+🤘Feito por EuHttl🤘
