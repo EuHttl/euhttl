@@ -1,6 +1,6 @@
 # Bem-vindo ao meu perfil! 🚀
 
-![Banner](https://www.istockphoto.com/br/foto/o-desenvolvimento-de-software-monitora-o-plano-de-fundo-da-tela-exibi%C3%A7%C3%A3o-do-gm1303486224-394923972?utm_campaign=srp_photos_noresults&utm_content=https%3A%2F%2Fwww.pexels.com%2Fsearch%2Fprograma%25C3%25A7%25C3%25A3o%2F&utm_medium=affiliate&utm_source=pexels&utm_term=programa%C3%A7%C3%A3o)
+![Banner](https://br.freepik.com/vetores-gratis/plano-de-fundo-realista-em-estilo-futurista_19256531.htm#query=background%20tecnologia&position=3&from_view=keyword&track=ais_hybrid&uuid=dbd3f6e9-ae69-46c4-8527-21454133a074)
 
 ## Sobre Mim
 
