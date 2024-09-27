@@ -1,4 +1,4 @@
-#                          Opa! Bem-vindo ao meu perfil 🚀
+#                          Opa ! Bem-vindo ao meu perfil 🚀
 
 <img src="https://images.pexels.com/photos/270348/pexels-photo-270348.jpeg" alt="Banner" width="800" height="200">
 
