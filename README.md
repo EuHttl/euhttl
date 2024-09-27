@@ -1,6 +1,6 @@
 # Bem-vindo ao meu perfil! 🚀
 
-![Banner](https://www.simplilearn.com/ice9/free_resources_article_thumb/what_is_programming.jpg)
+![Banner](https://via.placeholder.com/1200x300.png?text=Technology+and+Programming)
 
 ## Sobre Mim
 
