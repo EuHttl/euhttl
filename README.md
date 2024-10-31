@@ -8,12 +8,10 @@
 ## <div align="center">Sobre Mim</div>
 
 <div align="center">
-<ul style="text-decoration: none;">
-  <li>🚀 Explorando novas tecnologias e desenvolvendo soluções incríveis.</li>
-  <li>🎓 Aprendendo constantemente e compartilhando conhecimentos.</li>
-  <li>💼 Colaborando em projetos inovadores e desafiadores.</li>
-  <li>🎮 Apaixonado por basquete e tecnologias.</li>
-</ul>
+  🚀 Explorando novas tecnologias e desenvolvendo soluções incríveis.<br>
+  🎓 Aprendendo constantemente e compartilhando conhecimentos.<br>
+  💼 Colaborando em projetos inovadores e desafiadores.<br>
+  🎮 Apaixonado por basquete e tecnologias.<br>
 </div>
 
 ## <div align="center">Conecte-se Comigo</div>
@@ -30,25 +28,33 @@
 ## <div align="center">Estatísticas</div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EuHttl&show_icons=true&theme=radical" alt="GitHub Stats">
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EuHttl&show_icons=true&theme=radical)
+</div>
+
+## <div align="center">Top Languages</div>
+
+<div align="center">
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EuHttl&layout=compact&theme=radical)
+</div>
+
+## <div align="center">GitHub Trophies</div>
+
+<div align="center">
+  ![trophy](https://github-profile-trophy.vercel.app/?username=EuHttl&theme=radical)
 </div>
 
 ## <div align="center">Projetos em Destaque</div>
 
 <div align="center">
-  <ul>
-    <li>🎮 <a href="https://github.com/EuHttl/jogodavelha">Jogo da velha</a>: um jogo descontraído com dois modos de se divertir.</li>
-    <li>🌐 <a href="https://github.com/EuHttl/Curriculo-Responsivo">Meu curriculo</a>: mostrando um pouco da minha pessoa.</li>
-  </ul>
+  🎮 <a href="https://github.com/EuHttl/jogodavelha">Jogo da velha</a>: um jogo descontraído com dois modos de se divertir.<br>
+  🌐 <a href="https://github.com/EuHttl/Curriculo-Responsivo">Meu curriculo</a>: mostrando um pouco da minha pessoa.<br>
 </div>
 
 ## <div align="center">Curiosidades</div>
 
 <div align="center">
-  <ul>
-    <li>🎮 Gamer nas horas vagas.</li>
-    <li>🏀 Joguei Basquete de forma Semi-Profissional.</li>
-  </ul>
+  🎮 Gamer nas horas vagas.<br>
+  🏀 Joguei Basquete de forma Semi-Profissional.<br>
 </div>
 
 <hr>
