@@ -1,5 +1,5 @@
 # <div align="center">Opa!</div> 
-## <div align="center">Bem-vindo ao meu perfil 🚀</div>
+## <div align="center">Bem-vindo(a) ao meu perfil 🚀</div>
 
 <div align="center">
 <img src="https://images.pexels.com/photos/270348/pexels-photo-270348.jpeg" alt="Banner" width="800" height="200">
@@ -27,15 +27,15 @@
 
 ## <div align="center"> Estatísticas </div> 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EuHttl&show_icons=true&theme=radical)
+<div align="center">![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EuHttl&show_icons=true&theme=radical)</div>
 
 ## <div align="center">Top Languages </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EuHttl&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EuHttl&layout=compact&theme=tokyonight)
 
 ## <div align="center">GitHub Trophies</div>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=EuHttl&theme=radical)
+![trophy](https://github-profile-trophy.vercel.app/?username=EuHttl&theme=tokyonight)
 
 ## <div align="center">Projetos em Destaque</div>
 
