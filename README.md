@@ -8,7 +8,7 @@
 ## <div align="center">Sobre Mim</div>
 
 <div align="center">
-<ul>
+<ul style="text-decoration: none;">
   <li>🚀 Explorando novas tecnologias e desenvolvendo soluções incríveis.</li>
   <li>🎓 Aprendendo constantemente e compartilhando conhecimentos.</li>
   <li>💼 Colaborando em projetos inovadores e desafiadores.</li>
