@@ -28,10 +28,7 @@
 ## <div align="center">Estatísticas</div> 
 
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EuHttl&show_icons=true&theme=tokyonight)
-
-## <div align="center">Top Languages</div>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EuHttl&layout=compact&theme=tokyonight)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EuHttl&layout=compact&theme=tokyonight)
 
 ## <div align="center">GitHub Trophies</div>
 
