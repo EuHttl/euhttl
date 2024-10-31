@@ -25,23 +25,17 @@
   </a>
 </div>
 
-## <div align="center">Estatísticas</div>
+## Estatísticas
 
-<div align="center">
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EuHttl&show_icons=true&theme=radical)
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EuHttl&show_icons=true&theme=radical)
 
-## <div align="center">Top Languages</div>
+## Top Languages
 
-<div align="center">
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EuHttl&layout=compact&theme=radical)
-</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EuHttl&layout=compact&theme=radical)
 
-## <div align="center">GitHub Trophies</div>
+## GitHub Trophies
 
-<div align="center">
-  ![trophy](https://github-profile-trophy.vercel.app/?username=EuHttl&theme=radical)
-</div>
+![trophy](https://github-profile-trophy.vercel.app/?username=EuHttl&theme=radical)
 
 ## <div align="center">Projetos em Destaque</div>
 
