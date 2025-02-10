@@ -24,8 +24,8 @@
 ## <div align="center">Estatísticas</div> 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EuHttl&show_icons=true&theme=tokyonight" width="48%" alt="GitHub Stats"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EuHttl&layout=compact&theme=tokyonight" width="48%" alt="Top Langs">
+  <img src="https://github-readme-stats.vercel.app/api?username=EuHttl&show_icons=true&theme=tokyonight" width="50%" height= "50%" alt="GitHub Stats"> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EuHttl&layout=compact&theme=tokyonight" width="50%" height="50%" alt="Top Langs">
 </div>
 
 ## <div align="center">GitHub Trophies</div>
