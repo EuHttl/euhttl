@@ -30,7 +30,7 @@
 
 ## <div align="center">GitHub Trophies</div>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=EuHttl&theme=tokyonight)
+![trophy](https://github-profile-trophy.vercel.app/?username=EuHttl&theme=onestar)
 
 ## <div align="center">Projetos em Destaque</div>
 
