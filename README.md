@@ -1,10 +1,6 @@
 # <div align="center">Opa!</div> 
 ## <div align="center">Bem-vindo(a) ao meu perfil 🚀</div>
 
-<div align="center">
-<img src="https://images.pexels.com/photos/270348/pexels-photo-270348.jpeg" alt="Banner" width="800" height="200">
-</div>
-
 ## <div align="center">Sobre Mim</div>
 
 <div align="center">
