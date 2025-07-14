@@ -111,7 +111,7 @@
 ## 🏆 **Conquistas e Curiosidades**
 
 <div align="center">
-  <img src="https://img.shields.io/badge/🏀%20Ex-Jogador%20Semi-Profissional%20de%20Basquete-100000?style=for-the-badge&logo=basketball&logoColor=white&labelColor=FF6B35&color=FF6B35" />
+  <!-- <img src="https://img.shields.io/badge/🏀%20Ex-Jogador%20Semi-Profissional%20de%20Basquete-100000?style=for-the-badge&logo=basketball&logoColor=white&labelColor=FF6B35&color=FF6B35" /> -->
   <img src="https://img.shields.io/badge/🎮%20Gamer%20Nas%20Horas%20Vagas-100000?style=for-the-badge&logo=gamepad&logoColor=white&labelColor=8A2BE2&color=8A2BE2" />
   <img src="https://img.shields.io/badge/🚀%20Sempre%20Aprendendo-100000?style=for-the-badge&logo=rocket&logoColor=white&labelColor=00CED1&color=00CED1" />
 </div>
