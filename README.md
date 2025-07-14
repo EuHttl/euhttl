@@ -1,53 +1,146 @@
-# <div align="center">Opa!</div> 
-## <div align="center">Bem-vindo(a) ao meu perfil 🚀</div>
-
-## <div align="center">Sobre Mim</div>
-
 <div align="center">
-  🚀 Explorando novas tecnologias e desenvolvendo soluções incríveis.<br>
-  🎓 Aprendendo constantemente e compartilhando conhecimentos.<br>
-  💼 Colaborando em projetos inovadores e desafiadores.<br>
-  🎮 Apaixonado por basquete e tecnologias.<br>
+  <img src="https://readme-typing-svg.vercel.app/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+HYTTALO+COSTA;I'M+FROM+BRAZIL;I'M+A+DEVELOPER;Be+Welcome!+:%29" />
 </div>
 
-## <div align="center">Conecte-se Comigo</div>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=EuHttl&theme=radical&no-frame=true&no-bg=false&margin-w=4" />
+</div>
+
+---
+
+## 🚀 **Sobre Mim**
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/hyttalo-costa-1991841b2/">
-    <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8" alt="LinkedIn">
+  <img src="https://github-readme-stats.vercel.app/api?username=EuHttl&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EuHttl&layout=compact&theme=radical" alt="Top Languages" />
+</div>
+
+<p align="center">
+  👨‍💻 Desenvolvedor apaixonado por criar soluções inovadoras<br>
+  🎓 Sempre em busca de novos conhecimentos e desafios<br>
+  🏀 Ex-jogador semi-profissional de basquete<br>
+  🎮 Gamer nas horas vagas
+</p>
+
+---
+
+## 🛠️ **Tecnologias e Ferramentas**
+
+<div align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</div>
+
+---
+
+## 📊 **Estatísticas do GitHub**
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EuHttl&theme=radical&hide_border=true" />
+</div>
+
+---
+
+## 🎯 **Projetos em Destaque**
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">🎮 Jogo da Velha</h3>
+        <div align="center">
+          <a href="https://github.com/EuHttl/jogodavelha" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=EuHttl&repo=jogodavelha&theme=radical" width="100%" alt="Jogo da Velha"/>
+          </a>
+        </div>
+        <p align="center">
+          Um jogo descontraído com dois modos de diversão, desenvolvido com HTML, CSS e JavaScript.
+        </p>
+      </td>
+      <td width="50%">
+        <h3 align="center">📄 Currículo Responsivo</h3>
+        <div align="center">
+          <a href="https://github.com/EuHttl/Curriculo-Responsivo" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=EuHttl&repo=Curriculo-Responsivo&theme=radical" width="100%" alt="Currículo Responsivo"/>
+          </a>
+        </div>
+        <p align="center">
+          Meu currículo pessoal desenvolvido com design responsivo e moderno.
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 🌟 **Habilidades e Competências**
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Desenvolvimento%20Web-100000?style=for-the-badge&logo=web&logoColor=white&labelColor=8A2BE2&color=8A2BE2" />
+  <img src="https://img.shields.io/badge/Responsive%20Design-100000?style=for-the-badge&logo=responsive&logoColor=white&labelColor=00CED1&color=00CED1" />
+  <img src="https://img.shields.io/badge/Problem%20Solving-100000?style=for-the-badge&logo=puzzle&logoColor=white&labelColor=32CD32&color=32CD32" />
+  <img src="https://img.shields.io/badge/Team%20Work-100000?style=for-the-badge&logo=team&logoColor=white&labelColor=FF6B6B&color=FF6B6B" />
+  <img src="https://img.shields.io/badge/Continuous%20Learning-100000?style=for-the-badge&logo=learning&logoColor=white&labelColor=FFD700&color=FFD700" />
+</div>
+
+---
+
+## 📫 **Conecte-se Comigo**
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/hyttalo-costa-1991841b2/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://www.instagram.com/eu.httl/">
-    <img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram">
+  <a href="https://www.instagram.com/eu.httl/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="mailto:seu-email@exemplo.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </div>
 
-## <div align="center">Estatísticas</div> 
+---
+
+## 🏆 **Conquistas e Curiosidades**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EuHttl&show_icons=true&theme=tokyonight" width="50%" height= "50%" alt="GitHub Stats"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EuHttl&layout=compact&theme=tokyonight" width="50%" height="50%" alt="Top Langs">
+  <img src="https://img.shields.io/badge/🏀%20Ex-Jogador%20Semi-Profissional%20de%20Basquete-100000?style=for-the-badge&logo=basketball&logoColor=white&labelColor=FF6B35&color=FF6B35" />
+  <img src="https://img.shields.io/badge/🎮%20Gamer%20Nas%20Horas%20Vagas-100000?style=for-the-badge&logo=gamepad&logoColor=white&labelColor=8A2BE2&color=8A2BE2" />
+  <img src="https://img.shields.io/badge/🚀%20Sempre%20Aprendendo-100000?style=for-the-badge&logo=rocket&logoColor=white&labelColor=00CED1&color=00CED1" />
 </div>
 
-## <div align="center">GitHub Trophies</div>
+---
 
-![trophy](https://github-profile-trophy.vercel.app/?username=EuHttl&theme=onestar)
-
-## <div align="center">Projetos em Destaque</div>
+## 📈 **Visão Geral do Perfil**
 
 <div align="center">
-  🎮 <a href="https://github.com/EuHttl/jogodavelha">Jogo da velha</a>: um jogo descontraído com dois modos de se divertir.<br>
-  🌐 <a href="https://github.com/EuHttl/Curriculo-Responsivo">Meu curriculo</a>: mostrando um pouco da minha pessoa.<br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EuHttl&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EuHttl&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EuHttl&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=EuHttl&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=EuHttl&theme=radical" />
 </div>
 
-## <div align="center">Curiosidades</div>
+---
 
 <div align="center">
-  🎮 Gamer nas horas vagas.<br>
-  🏀 Joguei Basquete de forma Semi-Profissional.<br>
+  <img src="https://readme-typing-svg.vercel.app/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Obrigado+por+visitar+meu+perfil!+;Espero+que+tenha+gostado!+:%29" />
 </div>
 
-<hr>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=EuHttl&color=blueviolet" alt="Profile Views" />
+</div>
+
+---
 
 <div align="center">
-  🤘Feito por EuHttl🤘
+  <p>⭐ Se este perfil te ajudou, considere dar uma estrela! ⭐</p>
+  <p>🤘 Feito com ❤️ por <strong>Hyttalo Costa</strong> 🤘</p>
 </div>
