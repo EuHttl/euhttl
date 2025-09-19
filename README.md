@@ -141,6 +141,5 @@
 ---
 
 <div align="center">
-  <p>⭐ Se este perfil te ajudou, considere dar uma estrela! ⭐</p>
-  <p>🤘 Feito com ❤️ por <strong>Hyttalo Costa</strong> 🤘</p>
+  <p>⭐ Fique a vontade para dar uma olhada em meus repositórios publicos! ⭐</p>
 </div>
