@@ -26,7 +26,7 @@
 
 ## 🛠️ **Stacks que estudo/trabalho**
 
-<div align="left">
+<div align="center">
         <li list-style="none">
           <img src="https://img.shields.io/badge/Typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
           <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
