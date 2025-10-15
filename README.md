@@ -27,9 +27,6 @@
 ## 🛠️ **Stacks que estudo/trabalho**
 
 <div align="left">
-  <table>
-    <tr>
-      <td>
         <li list-style="none">
           <img src="https://img.shields.io/badge/Typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
           <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -47,9 +44,6 @@
         <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white&style=for-the-badge" />
         <img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white&style=for-the-badge" />
         </li>
-      </td>
-    </tr>
-  </table>
 </div>
 
 ---
