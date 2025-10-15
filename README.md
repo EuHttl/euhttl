@@ -53,14 +53,14 @@
   <table>
     <tr>
       <td width="50%">
-        <h3 align="center">🎮 Jogo da Velha</h3>
+        <h3 align="center">📚 Johari</h3>
         <div align="center">
-          <a href="https://github.com/EuHttl/jogodavelha" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=EuHttl&repo=jogodavelha&theme=radical" width="100%" alt="Jogo da Velha"/>
+          <a href="https://github.com/EuHttl/JohariTele-up" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=EuHttl&repo=JohariTele-up&theme=radical" width="100%" alt="Método Johari"/>
           </a>
         </div>
         <p align="center">
-          Um jogo descontraído com dois modos de diversão, desenvolvido com HTML, CSS e JavaScript.
+          Sistema web para aplicação da Janela de Johari, uma ferramenta de psicologia organizacional que ajuda no autoconhecimento e desenvolvimento de equipes.
         </p>
       </td>
       <td width="50%">
