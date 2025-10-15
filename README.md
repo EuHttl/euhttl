@@ -26,13 +26,13 @@
 
 ## 🛠️ **Stacks que estudo/trabalho**
 
-<div align="center">
+<div align="center" lj>
         <li list-style="none">
           <img src="https://img.shields.io/badge/Typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
           <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
           <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
         </li>
-        <li>
+        <li list-style  list-style="none">
           <img src="https://img.shields.io/badge/Git-E34F26?logo=git&logoColor=white&style=for-the-badge" />
           <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=black" />
         </li>
