@@ -2,6 +2,9 @@
   <img src="https://readme-typing-svg.vercel.app/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+HYTTALO+COSTA;I'M+FROM+BRAZIL;I'M+A+DEVELOPER;Be+Welcome!+:%29" />
 </div>
 
+---
+
+## Troféus
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=EuHttl&theme=radical&no-frame=true&no-bg=false&margin-w=4" />
 </div>
