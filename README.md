@@ -40,8 +40,7 @@
 <br>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EuHttl&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff" alt="Estatísticas do GitHub" loading="lazy" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EuHttl&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff" alt="Linguagens Mais Usadas" loading="lazy" />
+  <img src="https://streak-stats.demolab.com/?user=EuHttl&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D&cache_seconds=86400" alt="GitHub Streak" loading="lazy" />
 </div>
 
 <br>
