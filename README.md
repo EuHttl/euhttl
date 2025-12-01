@@ -16,18 +16,6 @@
 
 <br>
 
-## 🎮 Jogo da Cobrinha dos Commits
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/EuHttl/EuHttl/output/github-contribution-grid-snake.svg" alt="Snake game" />
-</div>
-
-<p align="center">
-  <em>O jogo da cobrinha é gerado automaticamente a partir dos seus commits do GitHub!</em>
-</p>
-
-<br>
-
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
