@@ -2,6 +2,10 @@
   <img src="https://readme-typing-svg.vercel.app/?color=00D9FF&size=35&center=true&vCenter=true&width=600&lines=Olá,+eu+sou+Hyttalo+Costa!;Desenvolvedor+de+Software;Do+Brasil+🇧🇷" />
 </div>
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=EuHttl&color=00D9FF&label=Visualizações+do+Perfil" alt="Visualizações do Perfil" />
+</div>
+
 <br>
 
 <div align="center">
@@ -129,10 +133,6 @@
 </div>
 
 <br>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=EuHttl&color=00D9FF&label=Visualizações+do+Perfil" alt="Visualizações do Perfil" />
-</div>
 
 <br>
 
