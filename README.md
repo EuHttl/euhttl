@@ -34,11 +34,9 @@
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EuHttl&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="Estatísticas do GitHub" />
-</div>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EuHttl&layout=compact&theme=radical&hide_border=true" alt="Linguagens Mais Usadas" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=EuHttl&theme=radical&hide_border=true&count_private=true" /> -->
+  <img src="https://github-readme-stats.vercel.app/api?username=EuHttl&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EuHttl&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 <br>
