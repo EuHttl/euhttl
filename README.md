@@ -2,13 +2,14 @@
   <img src="https://readme-typing-svg.vercel.app/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+HYTTALO+COSTA;I'M+FROM+BRAZIL;I'M+A+DEVELOPER;Be+Welcome!+:%29" />
 </div>
 
----
+<br>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=EuHttl&theme=radical&no-frame=true&no-bg=false&margin-w=4" />
 </div>
 
----
+<br>
+<br>
 
 ## 🚀 Sobre Mim
 
@@ -18,7 +19,7 @@
   Acredito no aprendizado contínuo e no trabalho colaborativo para alcançar resultados excepcionais.
 </p>
 
----
+<br>
 
 ## 🛠️ Tecnologias e Ferramentas
 
@@ -33,7 +34,7 @@
   <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </div>
 
----
+<br>
 
 ## 📊 Estatísticas do GitHub
 
@@ -43,7 +44,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EuHttl&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
----
+<br>
 
 ## 🎯 Projetos em Destaque
 
@@ -76,7 +77,7 @@
   </table>
 </div>
 
----
+<br>
 
 ## 🌟 Competências
 
@@ -88,7 +89,7 @@
   <img src="https://img.shields.io/badge/Aprendizado%20Contínuo-FFD700?style=for-the-badge&logo=learning&logoColor=white" alt="Aprendizado Contínuo" />
 </div>
 
----
+<br>
 
 ## 📫 Contato
 
@@ -104,7 +105,7 @@
   </a>
 </div>
 
----
+<br>
 
 ## 📈 Visão Geral do Perfil
 
@@ -116,17 +117,20 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=EuHttl&theme=radical" alt="Horário Produtivo" />
 </div>
 
----
+<br>
+<br>
 
 <div align="center">
   <img src="https://readme-typing-svg.vercel.app/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Obrigado+por+visitar+meu+perfil!+;Espero+que+tenha+gostado!+:%29" />
 </div>
 
+<br>
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=EuHttl&color=blueviolet" alt="Visualizações do Perfil" />
 </div>
 
----
+<br>
 
 <div align="center">
   <p>⭐ Sinta-se à vontade para explorar meus repositórios públicos! ⭐</p>
