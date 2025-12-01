@@ -13,7 +13,7 @@
 ## 🏆 Troféus GitHub
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=EuHttl&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=7&cache_seconds=86400" alt="GitHub Trophies" loading="lazy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=EuHttl&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies" loading="lazy" />
 </div>
 
 <br>
@@ -34,14 +34,14 @@
 ## 📊 Estatísticas
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=EuHttl&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D&cache_seconds=86400" alt="GitHub Streak" loading="lazy" />
+  <img src="https://streak-stats.demolab.com/?user=EuHttl&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" loading="lazy" />
 </div>
 
 <br>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EuHttl&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&cache_seconds=86400" alt="Estatísticas do GitHub" loading="lazy" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EuHttl&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&cache_seconds=86400" alt="Linguagens Mais Usadas" loading="lazy" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EuHttl&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff" alt="Estatísticas do GitHub" loading="lazy" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EuHttl&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff" alt="Linguagens Mais Usadas" loading="lazy" />
 </div>
 
 <br>
@@ -106,7 +106,7 @@
         <h3 align="center">📚 Johari</h3>
         <div align="center">
           <a href="https://github.com/EuHttl/JohariTele-up" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=EuHttl&repo=JohariTele-up&theme=radical&hide_border=true&show_owner=true&bg_color=0D1117&title_color=00D9FF&cache_seconds=86400" width="100%" alt="Método Johari" loading="lazy" />
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=EuHttl&repo=JohariTele-up&theme=radical&hide_border=true&show_owner=true&bg_color=0D1117&title_color=00D9FF" width="100%" alt="Método Johari" loading="lazy" />
           </a>
         </div>
         <p align="center">
@@ -120,7 +120,7 @@
         <h3 align="center">📄 Currículo Responsivo</h3>
         <div align="center">
           <a href="https://github.com/EuHttl/Curriculo-Responsivo" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=EuHttl&repo=Curriculo-Responsivo&theme=radical&hide_border=true&show_owner=true&bg_color=0D1117&title_color=00D9FF&cache_seconds=86400" width="100%" alt="Currículo Responsivo" loading="lazy" />
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=EuHttl&repo=Curriculo-Responsivo&theme=radical&hide_border=true&show_owner=true&bg_color=0D1117&title_color=00D9FF" width="100%" alt="Currículo Responsivo" loading="lazy" />
           </a>
         </div>
         <p align="center">
@@ -161,11 +161,11 @@
 ## 📈 Atividade no GitHub
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EuHttl&theme=radical&cache_seconds=86400" alt="Detalhes do Perfil" loading="lazy" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EuHttl&theme=radical&cache_seconds=86400" alt="Repositórios por Linguagem" loading="lazy" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EuHttl&theme=radical&cache_seconds=86400" alt="Linguagem Mais Usada em Commits" loading="lazy" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=EuHttl&theme=radical&cache_seconds=86400" alt="Estatísticas" loading="lazy" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=EuHttl&theme=radical&cache_seconds=86400" alt="Horário Produtivo" loading="lazy" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EuHttl&theme=radical" alt="Detalhes do Perfil" loading="lazy" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EuHttl&theme=radical" alt="Repositórios por Linguagem" loading="lazy" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EuHttl&theme=radical" alt="Linguagem Mais Usada em Commits" loading="lazy" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=EuHttl&theme=radical" alt="Estatísticas" loading="lazy" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=EuHttl&theme=radical" alt="Horário Produtivo" loading="lazy" />
 </div>
 
 <br>
