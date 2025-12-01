@@ -8,6 +8,9 @@
 
 
 <br>
+<br>
+
+## Troféus GitHub
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=EuHttl&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=7&cache_seconds=86400" alt="GitHub Trophies" loading="lazy" />
