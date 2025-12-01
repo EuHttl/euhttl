@@ -3,11 +3,6 @@
 </div>
 
 <br>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=EuHttl&theme=radical&no-frame=true&no-bg=false&margin-w=4" />
-</div>
-
 <br>
 <br>
 
@@ -39,8 +34,11 @@
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EuHttl&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EuHttl&layout=compact&theme=radical&hide_border=true" alt="Linguagens Mais Usadas" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EuHttl&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="Estatísticas do GitHub" />
+</div>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EuHttl&layout=compact&theme=radical&hide_border=true" alt="Linguagens Mais Usadas" />
 </div>
 
 <br>
@@ -121,6 +119,12 @@
 
 <div align="center">
   <img src="https://readme-typing-svg.vercel.app/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Obrigado+por+visitar+meu+perfil!+;Espero+que+tenha+gostado!+:%29" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=EuHttl&theme=radical&no-frame=true&no-bg=false&margin-w=4" />
 </div>
 
 <br>
