@@ -20,8 +20,9 @@
 
 ## 📋 Índice
 
+- [🏆 Troféus GitHub](#-troféus-github)
 - [📊 Estatísticas](#-estatísticas)
-- [🛠️ Tecnologias e Ferramentas](#️-tecnologias-e-ferramentas)
+- [💻 Linguagens de Programação](#-linguagens-de-programação)
 - [🚀 Sobre Mim](#-sobre-mim)
 - [🎯 Projetos em Destaque](#-projetos-em-destaque)
 - [🌟 Competências](#-competências)
