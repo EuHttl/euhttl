@@ -39,9 +39,8 @@
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=EuHttl&theme=radical&hide_border=true&count_private=true" /> -->
-  <img src="https://github-readme-stats.vercel.app/api?username=EuHttl&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EuHttl&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=EuHttl&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EuHttl&layout=compact&theme=radical&hide_border=true" alt="Linguagens Mais Usadas" />
 </div>
 
 <br>
@@ -55,7 +54,7 @@
         <h3 align="center">📚 Johari</h3>
         <div align="center">
           <a href="https://github.com/EuHttl/JohariTele-up" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=EuHttl&repo=JohariTele-up&theme=radical&hide_border=true" width="100%" alt="Método Johari" />
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=EuHttl&repo=JohariTele-up&theme=radical&hide_border=true&show_owner=true" width="100%" alt="Método Johari" />
           </a>
         </div>
         <p align="center">
@@ -66,7 +65,7 @@
         <h3 align="center">📄 Currículo Responsivo</h3>
         <div align="center">
           <a href="https://github.com/EuHttl/Curriculo-Responsivo" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=EuHttl&repo=Curriculo-Responsivo&theme=radical&hide_border=true" width="100%" alt="Currículo Responsivo" />
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=EuHttl&repo=Curriculo-Responsivo&theme=radical&hide_border=true&show_owner=true" width="100%" alt="Currículo Responsivo" />
           </a>
         </div>
         <p align="center">
