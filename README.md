@@ -8,10 +8,6 @@
 
 <br>
 
-<div align="center">
-  <img src="https://github.com/EuHttl/EuHttl/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%"/>
-</div>
-
 <br>
 
 ## ⚡ Sobre Mim
