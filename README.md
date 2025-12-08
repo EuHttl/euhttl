@@ -40,10 +40,6 @@
 ## 📊 Analytics
 
 <div align="center">
-  <img src="https://github.com/EuHttl/EuHttl/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
-  
-  <br><br>
-
   <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
     <img src="https://github-readme-stats.vercel.app/api?username=EuHttl&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" alt="Stats" />
     <img src="https://streak-stats.demolab.com/?user=EuHttl&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" height="170" alt="Streak" />
@@ -72,6 +68,18 @@
   <a href="mailto:hyttalo2002@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
   </a>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://readme-typing-svg.vercel.app/?color=A970FF&size=18&center=true&vCenter=true&width=500&lines=Code+is+Poetry+⭐" alt="Footer" />
+</div>
+
+## 🐍 Minhas Contribuições
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/EuHttl/EuHttl/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
 </div>
 
 <br>
