@@ -30,9 +30,9 @@
   <br>
   
   <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven&theme=dark" alt="Java Stack" /><br><br>
-  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,express,fastify,prisma,sequelize&theme=dark" alt="Node Stack" /><br><br>
+  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,express,fastify,prisma&theme=dark" alt="Node Stack" /><br><br>
   <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,styledcomponents&theme=dark" alt="Frontend" /><br><br>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,docker,git,github,vscode,linux&theme=dark" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,docker,git,github,vscode&theme=dark" alt="Tools" />
 </div>
 
 <br>
@@ -56,7 +56,6 @@
 
 | 📚 **Johari** | 🍷 **E-commerce Adega** |
 |:---:|:---:|
-| <img src="https://github-readme-stats.vercel.app/api/pin/?username=EuHttl&repo=JohariTele-up&theme=tokyonight&hide_border=true&bg_color=1a1b27" width="100%" /> | <img src="https://github-readme-stats.vercel.app/api/pin/?username=EuHttl&repo=Curriculo-Responsivo&theme=tokyonight&hide_border=true&bg_color=1a1b27" width="100%" /> |
 | *Janela de Johari e gestão de equipes.*<br>Stack: **React, TS, Node.js** | *Sistema completo com Dashboard e Pagamentos.*<br>Stack: **Fullstack, SQL** |
 
 <br>
