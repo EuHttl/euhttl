@@ -44,15 +44,18 @@
 ## 📊 Analytics
 
 <div align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=EuHttl&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+  <img src="https://github.com/EuHttl/EuHttl/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
   
-  <br>
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EuHttl&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+  <br><br>
+
+  <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+    <img src="https://github-readme-stats.vercel.app/api?username=EuHttl&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" alt="Stats" />
+    <img src="https://streak-stats.demolab.com/?user=EuHttl&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" height="170" alt="Streak" />
+  </div>
 
   <br>
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EuHttl&theme=tokyonight" alt="Detalhes do Perfil" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EuHttl&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Linguagens" />
 </div>
 
 <br>
