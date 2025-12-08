@@ -49,16 +49,20 @@
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EuHttl&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Estatísticas Gerais" />
-  <img height="180em" src="https://streak-stats.demolab.com/?user=EuHttl&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=EuHttl&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Estatísticas Gerais" />
+  <img height="180" src="https://streak-stats.demolab.com/?user=EuHttl&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 </div>
+
 <br>
+
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EuHttl&theme=radical" alt="Detalhes do Perfil" loading="lazy" />
 </div>
+
 <br>
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=EuHttl&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" loading="lazy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=EuHttl&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" loading="lazy" />
 </div>
 
 <br>
