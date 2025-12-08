@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.vercel.app/?color=00D9FF&size=35&center=true&vCenter=true&width=600&lines=Olá,+eu+sou+Hyttalo+Costa!;Full+Stack+Developer;Java+%26+JavaScript+Ecosystems;Do+Brasil+🇧🇷" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.vercel.app/?color=00D9FF&size=35&center=true&vCenter=true&width=600&lines=Olá,+eu+sou+Hyttalo+Costa!;Full+Stack+Developer;Formado+em+ADS;Do+Brasil+🇧🇷" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -12,7 +12,7 @@
 
 <div align="center">
   <p>
-    Sou <strong>Desenvolvedor Fullstack</strong> e estudante de Análise e Desenvolvimento de Sistemas na <strong>UNICID</strong>. Tenho paixão por resolver problemas complexos e criar arquiteturas escaláveis.
+    Sou <strong>Desenvolvedor Fullstack</strong> e formado em <strong>Análise e Desenvolvimento de Sistemas</strong> pela UNICID. Tenho paixão por resolver problemas complexos e criar arquiteturas escaláveis.
   </p>
   <p>
     Atualmente, divido meu tempo entre meu trabalho fixo e o desenvolvimento de projetos SaaS voltados para telecomunicações e gestão financeira.
@@ -49,19 +49,15 @@
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=EuHttl&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Estatísticas Gerais" height="180px"/>
-      </td>
-      <td>
-        <img src="https://streak-stats.demolab.com/?user=EuHttl&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" height="180px"/>
-      </td>
-    </tr>
-  </table>
-  <br>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EuHttl&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Estatísticas Gerais" />
+  <img height="180em" src="https://streak-stats.demolab.com/?user=EuHttl&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+</div>
+<br>
+<div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EuHttl&theme=radical" alt="Detalhes do Perfil" loading="lazy" />
-  <br>
+</div>
+<br>
+<div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=EuHttl&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" loading="lazy" />
 </div>
 
