@@ -49,8 +49,8 @@
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=EuHttl&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Estatísticas Gerais" />
-  <img height="180" src="https://streak-stats.demolab.com/?user=EuHttl&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EuHttl&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Estatísticas Gerais" />
+  <img height="180em" src="https://streak-stats.demolab.com/?user=EuHttl&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 </div>
 <br>
 <div align="center">
@@ -81,4 +81,35 @@
       <td width="50%">
         <h3 align="center">🍷 E-commerce Adega</h3>
         <div align="center">
-          <a href="
+          <a href="https://github.com/EuHttl/Curriculo-Responsivo" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=EuHttl&repo=Curriculo-Responsivo&theme=radical&hide_border=true&show_owner=true&bg_color=0D1117&title_color=00D9FF" width="100%" alt="Currículo" loading="lazy" />
+          </a>
+        </div>
+        <p align="center">E-commerce completo com dashboard admin, login e integração Mercado Pago.</p>
+        <p align="center"><strong>Stack:</strong> Fullstack, SQL, Railway</p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
+## 📫 Contato
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/hyttalo-costa-1991841b2/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:hyttalo2002@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://github.com/EuHttl" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://readme-typing-svg.vercel.app/?color=00D9FF&size=20&center=true&vCenter=true&width=600&lines=Obrigado+pela+visita!;Code+is+Poetry+⭐" alt="Footer Message" />
+</div>
