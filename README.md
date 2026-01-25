@@ -41,7 +41,8 @@
 
 <div align="center">
   <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-    <img src="https://streak-stats.demolab.com/?user=EuHttl&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" height="170" alt="Streak" />
+    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=euhttl&show_icons=true&theme=transparent)
+    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=euhttl&layout=compact)
   </div>
 
   <br>
