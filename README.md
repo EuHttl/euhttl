@@ -39,11 +39,8 @@
 
 ## 📊 Analytics
 
-<div align="center">
-  <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=euhttl&show_icons=true&theme=transparent)
+    ![euhttl GitHub stats](https://github-readme-stats.vercel.app/api?username=euhttl&show_icons=true&theme=transparent)
     ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=euhttl&layout=compact)
-  </div>
 
   <br>
 </div>
