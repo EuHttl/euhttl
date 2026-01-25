@@ -1,7 +1,7 @@
-<div align="center">
-  <img src="https://readme-typing-svg.vercel.app/?color=A970FF&size=32&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+Hyttalo+Costa!;Full+Stack+Developer;Java+%7C+Node.js+%7C+React;Formado+em+Análise+e+Desenvolvimento+de+Sistemas" alt="Typing SVG" />
+<div>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=297&color=gradient&text=Eu%20sou%20Hyttalo%20Costa&textBg=false&animation=fadeIn&desc=Desenvolvedor%20Jr.&descAlign=79&descAlignY=62&fontColor=#fff" />
 </div>
-
+  
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=EuHttl&color=A970FF&label=PROFILE+VIEWS" alt="Visualizações do Perfil" />
 </div>
@@ -39,10 +39,13 @@
 
 ## 📊 Analytics
 
-    ![euhttl GitHub stats](https://github-readme-stats.vercel.app/api?username=euhttl&show_icons=true&theme=transparent)
-    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=euhttl&layout=compact)
-
-  <br>
+<div>
+<a href="https://github.com/euhttl/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=euhttl" />
+</a>
+<a href="https://github.com/euhttl/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=euhttl&layout=compact&langs_count=8&card_width=320" />
+</a>
 </div>
 
 <br>
