@@ -16,7 +16,7 @@
   <p>
     👨‍💻 <strong>Desenvolvedor Fullstack</strong> apaixonado por arquitetura de software e soluções escaláveis.<br>
     🎓 Formado em <strong>Análise e Desenvolvimento de Sistemas</strong> pela UNICID.<br>
-    🚀 Atualmente focado em criar <strong>SaaS para Telecomunicações</strong> e aplicações de alta performance.
+    🚀  <strong>Focado em me desenvolver como Desenvolvedor Backend.</strong>
   </p>
 </div>
 
