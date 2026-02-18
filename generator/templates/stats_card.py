@@ -27,17 +27,21 @@ def generate_stats_card(stats: dict, metrics_config: dict, theme: dict) -> str:
     if metrics_config.get("repos", True):
         metrics.append(("Repositórios", stats.get("repos", 0), "M 10 10 L 10 30 L 30 30 L 30 10 Z M 15 5 L 15 10 M 25 5 L 25 10"))
     
-    # Calcula espaçamento
+    # Calcula espaçamento com margens
     total_metrics = len(metrics)
     if total_metrics == 0:
         total_metrics = 1
     
-    spacing = width / total_metrics
+    # Adiciona margens laterais
+    left_margin = 80
+    right_margin = 80
+    usable_width = width - left_margin - right_margin
+    spacing = usable_width / (total_metrics - 1) if total_metrics > 1 else 0
     
     # Gera elementos de métrica
     metric_elements = []
     for i, (label, value, icon_path) in enumerate(metrics):
-        x = spacing * i + spacing / 2
+        x = left_margin + (spacing * i) if total_metrics > 1 else width / 2
         
         metric_elements.append(f'''
     <g transform="translate({x}, 90)">

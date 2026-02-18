@@ -11,7 +11,7 @@
     📊 Mission Telemetry
   </text>
   
-  <g transform="translate(85, 90)">
+  <g transform="translate(80, 90)">
     <g transform="translate(-20, -40)">
       <path d="M 10 15 L 10 5 L 15 0 L 25 0 L 30 5 L 30 15 Z" stroke="#00d9ff" stroke-width="2" 
             fill="none" opacity="0.8"/>
@@ -30,7 +30,7 @@
     </text>
   </g>
 
-  <g transform="translate(255, 90)">
+  <g transform="translate(252.5, 90)">
     <g transform="translate(-20, -40)">
       <path d="M 20 5 L 23 15 L 33 15 L 25 21 L 28 31 L 20 25 L 12 31 L 15 21 L 7 15 L 17 15 Z" stroke="#00d9ff" stroke-width="2" 
             fill="none" opacity="0.8"/>
@@ -68,7 +68,7 @@
     </text>
   </g>
 
-  <g transform="translate(595, 90)">
+  <g transform="translate(597.5, 90)">
     <g transform="translate(-20, -40)">
       <path d="M 20 5 A 10 10 0 1 1 20 25 A 10 10 0 1 1 20 5 M 20 10 L 20 18 M 20 22 L 20 24" stroke="#00d9ff" stroke-width="2" 
             fill="none" opacity="0.8"/>
@@ -87,7 +87,7 @@
     </text>
   </g>
 
-  <g transform="translate(765, 90)">
+  <g transform="translate(770, 90)">
     <g transform="translate(-20, -40)">
       <path d="M 10 10 L 10 30 L 30 30 L 30 10 Z M 15 5 L 15 10 M 25 5 L 25 10" stroke="#00d9ff" stroke-width="2" 
             fill="none" opacity="0.8"/>

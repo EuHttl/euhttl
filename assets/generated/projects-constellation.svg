@@ -30,19 +30,19 @@
     <text x="125" y="70" text-anchor="middle" 
           font-family="'Segoe UI', Arial, sans-serif" font-size="16" font-weight="600" 
           fill="#e0e6f7">
-      github-readme-sta
+      login-auth-api
     </text>
     
     <text x="125" y="95" text-anchor="middle" 
           font-family="'Segoe UI', Arial, sans-serif" font-size="11" 
           fill="#8892b0">
-      Estatísticas dinâmicas do GitHub
+      API de autenticação e login
     </text>
     
     <text x="125" y="115" text-anchor="middle" 
           font-family="'Segoe UI', Arial, sans-serif" font-size="10" 
           fill="#00d9ff">
-      EuHttl/github-readme-stats
+      EuHttl/login-auth-api
     </text>
   </g>
 
@@ -65,33 +65,33 @@
     <text x="125" y="70" text-anchor="middle" 
           font-family="'Segoe UI', Arial, sans-serif" font-size="16" font-weight="600" 
           fill="#e0e6f7">
-      convoychat
+      Curriculo-Responsivo
     </text>
     
     <text x="125" y="95" text-anchor="middle" 
           font-family="'Segoe UI', Arial, sans-serif" font-size="11" 
           fill="#8892b0">
-      Aplicação de chat em tempo real
+      Currículo responsivo moderno
     </text>
     
     <text x="125" y="115" text-anchor="middle" 
           font-family="'Segoe UI', Arial, sans-serif" font-size="10" 
           fill="#a970ff">
-      EuHttl/convoychat
+      EuHttl/Curriculo-Responsivo
     </text>
   </g>
 
   <g transform="translate(537.5, 60)">
     <rect width="250" height="130" 
-          fill="#1a1f35" stroke="#ffb800" 
+          fill="#1a1f35" stroke="#00d9ff" 
           stroke-width="2" opacity="0.8" rx="8"/>
     
     <g transform="translate(125, 25)">
-      <circle cx="0" cy="0" r="15" fill="none" stroke="#ffb800" stroke-width="2">
+      <circle cx="0" cy="0" r="15" fill="none" stroke="#00d9ff" stroke-width="2">
         <animateTransform attributeName="transform" type="rotate" 
                           from="0 0 0" to="360 0 0" dur="10s" repeatCount="indefinite"/>
       </circle>
-      <circle cx="15" cy="0" r="4" fill="#ffb800">
+      <circle cx="15" cy="0" r="4" fill="#00d9ff">
         <animateTransform attributeName="transform" type="rotate" 
                           from="0 0 0" to="360 0 0" dur="10s" repeatCount="indefinite"/>
       </circle>
@@ -100,19 +100,19 @@
     <text x="125" y="70" text-anchor="middle" 
           font-family="'Segoe UI', Arial, sans-serif" font-size="16" font-weight="600" 
           fill="#e0e6f7">
-      Seu Projeto Aqui
+      api_filmes
     </text>
     
     <text x="125" y="95" text-anchor="middle" 
           font-family="'Segoe UI', Arial, sans-serif" font-size="11" 
           fill="#8892b0">
-      Configure em config.yml
+      API REST para gerenciamento de...
     </text>
     
     <text x="125" y="115" text-anchor="middle" 
           font-family="'Segoe UI', Arial, sans-serif" font-size="10" 
-          fill="#ffb800">
-      usuario/repositorio
+          fill="#00d9ff">
+      EuHttl/api_filmes
     </text>
   </g>
 </svg>
