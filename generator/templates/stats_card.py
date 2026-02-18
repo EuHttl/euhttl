@@ -1,5 +1,5 @@
 """
-Template: Stats Card - Cartão de estatísticas do GitHub
+Template: Stats Card
 """
 from generator.utils import escape_xml, format_number
 
@@ -8,59 +8,85 @@ def generate_stats_card(stats: dict, metrics_config: dict, theme: dict) -> str:
     """Gera SVG do cartão de estatísticas"""
     
     width = 850
-    height = 180
+    height = 160
     
     # Define métricas a serem exibidas
     metrics = []
+    metric_icons = {
+        "commits": "💠",
+        "stars": "⭐",
+        "prs": "🔄",
+        "issues": "❓",
+        "repos": "📦"
+    }
+    
+    metric_labels = {
+        "commits": "Commits",
+        "stars": "Stars", 
+        "prs": "PRs",
+        "issues": "Issues",
+        "repos": "Repos"
+    }
+    
     if metrics_config.get("commits", True):
-        metrics.append(("Commits", stats.get("commits", 0), "M 10 15 L 10 5 L 15 0 L 25 0 L 30 5 L 30 15 Z"))
+        metrics.append(("commits", stats.get("commits", 0)))
     
     if metrics_config.get("stars", True):
-        metrics.append(("Stars", stats.get("stars", 0), "M 20 5 L 23 15 L 33 15 L 25 21 L 28 31 L 20 25 L 12 31 L 15 21 L 7 15 L 17 15 Z"))
+        metrics.append(("stars", stats.get("stars", 0)))
     
     if metrics_config.get("prs", True):
-        metrics.append(("Pull Requests", stats.get("prs", 0), "M 10 5 L 30 5 M 20 5 L 20 25 M 15 20 L 20 25 L 25 20"))
+        metrics.append(("prs", stats.get("prs", 0)))
     
     if metrics_config.get("issues", True):
-        metrics.append(("Issues", stats.get("issues", 0), "M 20 5 A 10 10 0 1 1 20 25 A 10 10 0 1 1 20 5 M 20 10 L 20 18 M 20 22 L 20 24"))
+        metrics.append(("issues", stats.get("issues", 0)))
     
     if metrics_config.get("repos", True):
-        metrics.append(("Repositórios", stats.get("repos", 0), "M 10 10 L 10 30 L 30 30 L 30 10 Z M 15 5 L 15 10 M 25 5 L 25 10"))
+        metrics.append(("repos", stats.get("repos", 0)))
     
     # Calcula espaçamento com margens
     total_metrics = len(metrics)
     if total_metrics == 0:
         total_metrics = 1
     
-    # Adiciona margens laterais
-    left_margin = 80
-    right_margin = 80
+    left_margin = 60
+    right_margin = 60
     usable_width = width - left_margin - right_margin
     spacing = usable_width / (total_metrics - 1) if total_metrics > 1 else 0
     
+    # Cores alternadas para métricas
+    colors = [
+        theme["synapse_cyan"],
+        theme["axon_amber"],
+        theme["synapse_cyan"],
+        theme["axon_amber"],
+        theme["dendrite_violet"],
+    ]
+    
     # Gera elementos de métrica
     metric_elements = []
-    for i, (label, value, icon_path) in enumerate(metrics):
+    for i, (key, value) in enumerate(metrics):
         x = left_margin + (spacing * i) if total_metrics > 1 else width / 2
+        color = colors[i % len(colors)]
+        icon = metric_icons.get(key, "📊")
+        label = metric_labels.get(key, key.capitalize())
         
         metric_elements.append(f'''
-    <g transform="translate({x}, 90)">
+    <g>
       <!-- Ícone -->
-      <g transform="translate(-20, -40)">
-        <path d="{icon_path}" stroke="{theme['synapse_cyan']}" stroke-width="2" 
-              fill="none" opacity="0.8"/>
-      </g>
+      <text x="{x}" y="60" text-anchor="middle" font-size="28">
+        {icon}
+      </text>
       
       <!-- Valor -->
-      <text y="0" text-anchor="middle" 
-            font-family="'Segoe UI', Arial, sans-serif" font-size="36" font-weight="bold" 
-            fill="{theme['text_bright']}">
+      <text x="{x}" y="100" text-anchor="middle" 
+            font-family="'Courier New', monospace" font-size="32" font-weight="bold" 
+            fill="{color}">
         {format_number(value)}
       </text>
       
       <!-- Label -->
-      <text y="25" text-anchor="middle" 
-            font-family="'Segoe UI', Arial, sans-serif" font-size="14" 
+      <text x="{x}" y="125" text-anchor="middle" 
+            font-family="'Courier New', monospace" font-size="12" font-weight="600"
             fill="{theme['text_dim']}">
         {escape_xml(label)}
       </text>
@@ -70,16 +96,16 @@ def generate_stats_card(stats: dict, metrics_config: dict, theme: dict) -> str:
   <!-- Background -->
   <rect width="{width}" height="{height}" fill="{theme['nebula_bg']}" rx="10"/>
   
-  <!-- Borda brilhante -->
+  <!-- Borda -->
   <rect x="2" y="2" width="{width-4}" height="{height-4}" 
-        fill="none" stroke="{theme['synapse_cyan']}" stroke-width="1" 
+        fill="none" stroke="{theme['starfield_dim']}" stroke-width="1" 
         opacity="0.3" rx="10"/>
   
   <!-- Título -->
-  <text x="425" y="30" text-anchor="middle" 
-        font-family="'Segoe UI', Arial, sans-serif" font-size="20" font-weight="600" 
-        fill="{theme['text_bright']}">
-    📊 Mission Telemetry
+  <text x="30" y="28" 
+        font-family="'Courier New', monospace" font-size="14" font-weight="600" 
+        fill="{theme['text_dim']}" letter-spacing="2">
+    MISSION TELEMETRY
   </text>
   
   <!-- Métricas -->

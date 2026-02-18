@@ -1,205 +1,165 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="850" height="500" viewBox="0 0 850 500">
-  <rect width="850" height="500" fill="#0f1420" rx="10"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="850" height="350" viewBox="0 0 850 350">
+  <!-- Background -->
+  <rect width="850" height="350" fill="#0f1420" rx="10"/>
   
-  <rect x="2" y="2" width="846" height="496" 
-        fill="none" stroke="#a970ff" stroke-width="1" 
+  <!-- Borda -->
+  <rect x="2" y="2" width="846" height="346" 
+        fill="none" stroke="#1a1f35" stroke-width="1" 
         opacity="0.3" rx="10"/>
   
-  <text x="425" y="35" text-anchor="middle" 
-        font-family="'Segoe UI', Arial, sans-serif" font-size="20" font-weight="600" 
-        fill="#e0e6f7">
-    🚀 Tech Stack &amp; Focus Sectors
+  <!-- Título Language Telemetry -->
+  <text x="30" y="35" 
+        font-family="'Courier New', monospace" font-size="14" font-weight="600" 
+        fill="#8892b0" letter-spacing="2">
+    LANGUAGE TELEMETRY
   </text>
   
+  <!-- Título Focus Sectors -->
+  <text x="470" y="35" 
+        font-family="'Courier New', monospace" font-size="14" font-weight="600" 
+        fill="#8892b0" letter-spacing="2">
+    FOCUS SECTORS
+  </text>
+  
+  <!-- Barras de linguagem -->
   <g>
-    <rect x="50" y="80" width="750" height="30" 
-          fill="#1a1f35" rx="5"/>
-    
-    <rect x="50" y="80" width="450" height="30" 
-          fill="#f1e05a" opacity="0.8" rx="5">
-      <animate attributeName="width" from="0" to="450" 
-               dur="1.5s" begin="0.0s" fill="freeze"/>
+    <rect x="30" y="80" width="180" height="18" fill="#1a1f35" rx="3"/>
+    <rect x="30" y="80" width="0" height="18" fill="#2b7489" opacity="0.9" rx="3">
+      <animate attributeName="width" from="0" to="69" dur="1.2s" begin="0.0s" fill="freeze"/>
     </rect>
-    
-    <text x="60" y="100" 
-          font-family="'Segoe UI', Arial, sans-serif" font-size="14" font-weight="600" 
-          fill="#e0e6f7">
-      JavaScript
-    </text>
-    
-    <text x="740" y="100" text-anchor="end"
-          font-family="'Segoe UI', Arial, sans-serif" font-size="14" 
-          fill="#8892b0">
-      31.5%
-    </text>
+    <text x="220" y="93" font-family="'Courier New', monospace" font-size="13" font-weight="600" fill="#e0e6f7">TypeScript</text>
+    <text x="360" y="93" text-anchor="end" font-family="'Courier New', monospace" font-size="13" fill="#8892b0">38.5%</text>
   </g>
 
   <g>
-    <rect x="50" y="125" width="750" height="30" 
-          fill="#1a1f35" rx="5"/>
-    
-    <rect x="50" y="125" width="380" height="30" 
-          fill="#2b7489" opacity="0.8" rx="5">
-      <animate attributeName="width" from="0" to="380" 
-               dur="1.5s" begin="0.1s" fill="freeze"/>
+    <rect x="30" y="108" width="180" height="18" fill="#1a1f35" rx="3"/>
+    <rect x="30" y="108" width="0" height="18" fill="#3572A5" opacity="0.9" rx="3">
+      <animate attributeName="width" from="0" to="44" dur="1.2s" begin="0.1s" fill="freeze"/>
     </rect>
-    
-    <text x="60" y="145" 
-          font-family="'Segoe UI', Arial, sans-serif" font-size="14" font-weight="600" 
-          fill="#e0e6f7">
-      TypeScript
-    </text>
-    
-    <text x="740" y="145" text-anchor="end"
-          font-family="'Segoe UI', Arial, sans-serif" font-size="14" 
-          fill="#8892b0">
-      26.6%
-    </text>
+    <text x="220" y="121" font-family="'Courier New', monospace" font-size="13" font-weight="600" fill="#e0e6f7">Python</text>
+    <text x="360" y="121" text-anchor="end" font-family="'Courier New', monospace" font-size="13" fill="#8892b0">24.3%</text>
   </g>
 
   <g>
-    <rect x="50" y="170" width="750" height="30" 
-          fill="#1a1f35" rx="5"/>
-    
-    <rect x="50" y="170" width="250" height="30" 
-          fill="#b07219" opacity="0.8" rx="5">
-      <animate attributeName="width" from="0" to="250" 
-               dur="1.5s" begin="0.2s" fill="freeze"/>
+    <rect x="30" y="136" width="180" height="18" fill="#1a1f35" rx="3"/>
+    <rect x="30" y="136" width="0" height="18" fill="#e34c26" opacity="0.9" rx="3">
+      <animate attributeName="width" from="0" to="37" dur="1.2s" begin="0.2s" fill="freeze"/>
     </rect>
-    
-    <text x="60" y="190" 
-          font-family="'Segoe UI', Arial, sans-serif" font-size="14" font-weight="600" 
-          fill="#e0e6f7">
-      Java
-    </text>
-    
-    <text x="740" y="190" text-anchor="end"
-          font-family="'Segoe UI', Arial, sans-serif" font-size="14" 
-          fill="#8892b0">
-      17.5%
-    </text>
+    <text x="220" y="149" font-family="'Courier New', monospace" font-size="13" font-weight="600" fill="#e0e6f7">Svelte</text>
+    <text x="360" y="149" text-anchor="end" font-family="'Courier New', monospace" font-size="13" fill="#8892b0">20.4%</text>
   </g>
 
   <g>
-    <rect x="50" y="215" width="750" height="30" 
-          fill="#1a1f35" rx="5"/>
-    
-    <rect x="50" y="215" width="120" height="30" 
-          fill="#3572A5" opacity="0.8" rx="5">
-      <animate attributeName="width" from="0" to="120" 
-               dur="1.5s" begin="0.3s" fill="freeze"/>
+    <rect x="30" y="164" width="180" height="18" fill="#1a1f35" rx="3"/>
+    <rect x="30" y="164" width="0" height="18" fill="#ff6f61" opacity="0.9" rx="3">
+      <animate attributeName="width" from="0" to="24" dur="1.2s" begin="0.3s" fill="freeze"/>
     </rect>
-    
-    <text x="60" y="235" 
-          font-family="'Segoe UI', Arial, sans-serif" font-size="14" font-weight="600" 
+    <text x="220" y="177" font-family="'Courier New', monospace" font-size="13" font-weight="600" fill="#e0e6f7">Astro</text>
+    <text x="360" y="177" text-anchor="end" font-family="'Courier New', monospace" font-size="13" fill="#8892b0">13.5%</text>
+  </g>
+
+  <g>
+    <rect x="30" y="192" width="180" height="18" fill="#1a1f35" rx="3"/>
+    <rect x="30" y="192" width="0" height="18" fill="#4FC08D" opacity="0.9" rx="3">
+      <animate attributeName="width" from="0" to="4" dur="1.2s" begin="0.4s" fill="freeze"/>
+    </rect>
+    <text x="220" y="205" font-family="'Courier New', monospace" font-size="13" font-weight="600" fill="#e0e6f7">Vue</text>
+    <text x="360" y="205" text-anchor="end" font-family="'Courier New', monospace" font-size="13" fill="#8892b0">2.1%</text>
+  </g>
+
+  <g>
+    <rect x="30" y="220" width="180" height="18" fill="#1a1f35" rx="3"/>
+    <rect x="30" y="220" width="0" height="18" fill="#384d54" opacity="0.9" rx="3">
+      <animate attributeName="width" from="0" to="1" dur="1.2s" begin="0.5s" fill="freeze"/>
+    </rect>
+    <text x="220" y="233" font-family="'Courier New', monospace" font-size="13" font-weight="600" fill="#e0e6f7">Dockerfile</text>
+    <text x="360" y="233" text-anchor="end" font-family="'Courier New', monospace" font-size="13" fill="#8892b0">0.6%</text>
+  </g>
+  
+  <!-- Gráfico de pizza (Focus Sectors) -->
+  <g>
+    <!-- Automation sector -->
+    <path d="M 630 180 L 630 90 A 90 90 0 0 1 702.27 232.97 Z"
+          fill="#ffb800" opacity="0.7" stroke="#0a0e27" stroke-width="2">
+      <animate attributeName="opacity" values="0.7;0.85;0.7" dur="3s" repeatCount="indefinite"/>
+    </path>
+    <text x="666" y="155" text-anchor="middle"
+          font-family="'Courier New', monospace" font-size="16" font-weight="bold"
           fill="#e0e6f7">
-      Python
-    </text>
-    
-    <text x="740" y="235" text-anchor="end"
-          font-family="'Segoe UI', Arial, sans-serif" font-size="14" 
-          fill="#8892b0">
-      8.4%
+      (3)
     </text>
   </g>
 
   <g>
-    <rect x="50" y="260" width="750" height="30" 
-          fill="#1a1f35" rx="5"/>
-    
-    <rect x="50" y="260" width="80" height="30" 
-          fill="#e34c26" opacity="0.8" rx="5">
-      <animate attributeName="width" from="0" to="80" 
-               dur="1.5s" begin="0.4s" fill="freeze"/>
-    </rect>
-    
-    <text x="60" y="280" 
-          font-family="'Segoe UI', Arial, sans-serif" font-size="14" font-weight="600" 
+    <!-- Web & Cloud sector -->
+    <path d="M 630 180 L 702.27 232.97 A 90 90 0 0 1 557.73 232.97 Z"
+          fill="#a970ff" opacity="0.7" stroke="#0a0e27" stroke-width="2">
+      <animate attributeName="opacity" values="0.7;0.85;0.7" dur="3s" repeatCount="indefinite"/>
+    </path>
+    <text x="630" y="225" text-anchor="middle"
+          font-family="'Courier New', monospace" font-size="16" font-weight="bold"
           fill="#e0e6f7">
-      HTML
-    </text>
-    
-    <text x="740" y="280" text-anchor="end"
-          font-family="'Segoe UI', Arial, sans-serif" font-size="14" 
-          fill="#8892b0">
-      5.6%
+      (4)
     </text>
   </g>
 
   <g>
-    <rect x="50" y="305" width="750" height="30" 
-          fill="#1a1f35" rx="5"/>
-    
-    <rect x="50" y="305" width="60" height="30" 
-          fill="#563d7c" opacity="0.8" rx="5">
-      <animate attributeName="width" from="0" to="60" 
-               dur="1.5s" begin="0.5s" fill="freeze"/>
-    </rect>
-    
-    <text x="60" y="325" 
-          font-family="'Segoe UI', Arial, sans-serif" font-size="14" font-weight="600" 
+    <!-- AI & Data sector -->
+    <path d="M 630 180 L 557.73 232.97 A 90 90 0 0 1 630 90 Z"
+          fill="#00d9ff" opacity="0.7" stroke="#0a0e27" stroke-width="2">
+      <animate attributeName="opacity" values="0.7;0.85;0.7" dur="3s" repeatCount="indefinite"/>
+    </path>
+    <text x="594" y="155" text-anchor="middle"
+          font-family="'Courier New', monospace" font-size="16" font-weight="bold"
           fill="#e0e6f7">
-      CSS
-    </text>
-    
-    <text x="740" y="325" text-anchor="end"
-          font-family="'Segoe UI', Arial, sans-serif" font-size="14" 
-          fill="#8892b0">
-      4.2%
+      (3)
     </text>
   </g>
-
-  <g transform="translate(141.67, 390)">
-    <circle cx="0" cy="0" r="8" fill="#00d9ff" opacity="0.8">
-      <animate attributeName="r" values="8;12;8" dur="2s" repeatCount="indefinite"/>
-    </circle>
-    
-    <text y="25" text-anchor="middle" 
-          font-family="'Segoe UI', Arial, sans-serif" font-size="16" font-weight="600" 
-          fill="#00d9ff">
-      Backend
-    </text>
-    
-    <text y="45" text-anchor="middle" 
-          font-family="'Segoe UI', Arial, sans-serif" font-size="11" 
-          fill="#8892b0">
-      Java • Spring Boot • Node.js
-    </text>
-  </g>
-
-  <g transform="translate(425, 390)">
-    <circle cx="0" cy="0" r="8" fill="#a970ff" opacity="0.8">
-      <animate attributeName="r" values="8;12;8" dur="2s" repeatCount="indefinite"/>
-    </circle>
-    
-    <text y="25" text-anchor="middle" 
-          font-family="'Segoe UI', Arial, sans-serif" font-size="16" font-weight="600" 
-          fill="#a970ff">
-      Frontend
-    </text>
-    
-    <text y="45" text-anchor="middle" 
-          font-family="'Segoe UI', Arial, sans-serif" font-size="11" 
-          fill="#8892b0">
-      React • TypeScript • Next.js
-    </text>
-  </g>
-
-  <g transform="translate(708.33, 390)">
-    <circle cx="0" cy="0" r="8" fill="#ffb800" opacity="0.8">
-      <animate attributeName="r" values="8;12;8" dur="2s" repeatCount="indefinite"/>
-    </circle>
-    
-    <text y="25" text-anchor="middle" 
-          font-family="'Segoe UI', Arial, sans-serif" font-size="16" font-weight="600" 
+  
+  <!-- Legendas -->
+  <g>
+    <circle cx="470" cy="295" r="5" fill="#ffb800" opacity="0.9"/>
+    <text x="482" y="300"
+          font-family="'Courier New', monospace" font-size="12" font-weight="600"
           fill="#ffb800">
-      DevOps
+      Automation
     </text>
-    
-    <text y="45" text-anchor="middle" 
-          font-family="'Segoe UI', Arial, sans-serif" font-size="11" 
+    <text x="482" y="315"
+          font-family="'Courier New', monospace" font-size="10"
           fill="#8892b0">
-      Docker • PostgreSQL • Git
+      (3)
     </text>
   </g>
+
+  <g>
+    <circle cx="610" cy="295" r="5" fill="#a970ff" opacity="0.9"/>
+    <text x="622" y="300"
+          font-family="'Courier New', monospace" font-size="12" font-weight="600"
+          fill="#a970ff">
+      Web & Cloud
+    </text>
+    <text x="622" y="315"
+          font-family="'Courier New', monospace" font-size="10"
+          fill="#8892b0">
+      (4)
+    </text>
+  </g>
+
+  <g>
+    <circle cx="750" cy="295" r="5" fill="#00d9ff" opacity="0.9"/>
+    <text x="762" y="300"
+          font-family="'Courier New', monospace" font-size="12" font-weight="600"
+          fill="#00d9ff">
+      AI & Data
+    </text>
+    <text x="762" y="315"
+          font-family="'Courier New', monospace" font-size="10"
+          fill="#8892b0">
+      (3)
+    </text>
+  </g>
+  
+  <!-- Linha divisória vertical -->
+  <line x1="420" y1="60" x2="420" y2="280" 
+        stroke="#1a1f35" stroke-width="1" opacity="0.3"/>
 </svg>

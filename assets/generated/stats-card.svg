@@ -1,108 +1,92 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="850" height="180" viewBox="0 0 850 180">
-  <rect width="850" height="180" fill="#0f1420" rx="10"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="850" height="160" viewBox="0 0 850 160">
+  <!-- Background -->
+  <rect width="850" height="160" fill="#0f1420" rx="10"/>
   
-  <rect x="2" y="2" width="846" height="176" 
-        fill="none" stroke="#00d9ff" stroke-width="1" 
+  <!-- Borda -->
+  <rect x="2" y="2" width="846" height="156" 
+        fill="none" stroke="#1a1f35" stroke-width="1" 
         opacity="0.3" rx="10"/>
   
-  <text x="425" y="30" text-anchor="middle" 
-        font-family="'Segoe UI', Arial, sans-serif" font-size="20" font-weight="600" 
-        fill="#e0e6f7">
-    📊 Mission Telemetry
+  <!-- Título -->
+  <text x="30" y="28" 
+        font-family="'Courier New', monospace" font-size="14" font-weight="600" 
+        fill="#8892b0" letter-spacing="2">
+    MISSION TELEMETRY
   </text>
   
-  <g transform="translate(80, 90)">
-    <g transform="translate(-20, -40)">
-      <path d="M 10 15 L 10 5 L 15 0 L 25 0 L 30 5 L 30 15 Z" stroke="#00d9ff" stroke-width="2" 
-            fill="none" opacity="0.8"/>
-    </g>
-    
-    <text y="0" text-anchor="middle" 
-          font-family="'Segoe UI', Arial, sans-serif" font-size="36" font-weight="bold" 
-          fill="#e0e6f7">
+  <!-- Métricas -->
+  <g>
+    <!-- Commits -->
+    <text x="125" y="60" text-anchor="middle" font-size="28">💠</text>
+    <text x="125" y="100" text-anchor="middle" 
+          font-family="'Courier New', monospace" font-size="32" font-weight="bold" 
+          fill="#00d9ff">
       1.2K
     </text>
-    
-    <text y="25" text-anchor="middle" 
-          font-family="'Segoe UI', Arial, sans-serif" font-size="14" 
+    <text x="125" y="125" text-anchor="middle" 
+          font-family="'Courier New', monospace" font-size="12" font-weight="600"
           fill="#8892b0">
       Commits
     </text>
   </g>
 
-  <g transform="translate(252.5, 90)">
-    <g transform="translate(-20, -40)">
-      <path d="M 20 5 L 23 15 L 33 15 L 25 21 L 28 31 L 20 25 L 12 31 L 15 21 L 7 15 L 17 15 Z" stroke="#00d9ff" stroke-width="2" 
-            fill="none" opacity="0.8"/>
-    </g>
-    
-    <text y="0" text-anchor="middle" 
-          font-family="'Segoe UI', Arial, sans-serif" font-size="36" font-weight="bold" 
-          fill="#e0e6f7">
-      89
+  <g>
+    <!-- Stars -->
+    <text x="277.5" y="60" text-anchor="middle" font-size="28">⭐</text>
+    <text x="277.5" y="100" text-anchor="middle" 
+          font-family="'Courier New', monospace" font-size="32" font-weight="bold" 
+          fill="#ffb800">
+      7
     </text>
-    
-    <text y="25" text-anchor="middle" 
-          font-family="'Segoe UI', Arial, sans-serif" font-size="14" 
+    <text x="277.5" y="125" text-anchor="middle" 
+          font-family="'Courier New', monospace" font-size="12" font-weight="600"
           fill="#8892b0">
       Stars
     </text>
   </g>
 
-  <g transform="translate(425, 90)">
-    <g transform="translate(-20, -40)">
-      <path d="M 10 5 L 30 5 M 20 5 L 20 25 M 15 20 L 20 25 L 25 20" stroke="#00d9ff" stroke-width="2" 
-            fill="none" opacity="0.8"/>
-    </g>
-    
-    <text y="0" text-anchor="middle" 
-          font-family="'Segoe UI', Arial, sans-serif" font-size="36" font-weight="bold" 
-          fill="#e0e6f7">
-      156
+  <g>
+    <!-- PRs -->
+    <text x="430" y="60" text-anchor="middle" font-size="28">🔄</text>
+    <text x="430" y="100" text-anchor="middle" 
+          font-family="'Courier New', monospace" font-size="32" font-weight="bold" 
+          fill="#00d9ff">
+      61
     </text>
-    
-    <text y="25" text-anchor="middle" 
-          font-family="'Segoe UI', Arial, sans-serif" font-size="14" 
+    <text x="430" y="125" text-anchor="middle" 
+          font-family="'Courier New', monospace" font-size="12" font-weight="600"
           fill="#8892b0">
-      Pull Requests
+      PRs
     </text>
   </g>
 
-  <g transform="translate(597.5, 90)">
-    <g transform="translate(-20, -40)">
-      <path d="M 20 5 A 10 10 0 1 1 20 25 A 10 10 0 1 1 20 5 M 20 10 L 20 18 M 20 22 L 20 24" stroke="#00d9ff" stroke-width="2" 
-            fill="none" opacity="0.8"/>
-    </g>
-    
-    <text y="0" text-anchor="middle" 
-          font-family="'Segoe UI', Arial, sans-serif" font-size="36" font-weight="bold" 
-          fill="#e0e6f7">
-      78
+  <g>
+    <!-- Issues -->
+    <text x="582.5" y="60" text-anchor="middle" font-size="28">❓</text>
+    <text x="582.5" y="100" text-anchor="middle" 
+          font-family="'Courier New', monospace" font-size="32" font-weight="bold" 
+          fill="#ffb800">
+      2
     </text>
-    
-    <text y="25" text-anchor="middle" 
-          font-family="'Segoe UI', Arial, sans-serif" font-size="14" 
+    <text x="582.5" y="125" text-anchor="middle" 
+          font-family="'Courier New', monospace" font-size="12" font-weight="600"
           fill="#8892b0">
       Issues
     </text>
   </g>
 
-  <g transform="translate(770, 90)">
-    <g transform="translate(-20, -40)">
-      <path d="M 10 10 L 10 30 L 30 30 L 30 10 Z M 15 5 L 15 10 M 25 5 L 25 10" stroke="#00d9ff" stroke-width="2" 
-            fill="none" opacity="0.8"/>
-    </g>
-    
-    <text y="0" text-anchor="middle" 
-          font-family="'Segoe UI', Arial, sans-serif" font-size="36" font-weight="bold" 
-          fill="#e0e6f7">
-      23
+  <g>
+    <!-- Repos -->
+    <text x="735" y="60" text-anchor="middle" font-size="28">📦</text>
+    <text x="735" y="100" text-anchor="middle" 
+          font-family="'Courier New', monospace" font-size="32" font-weight="bold" 
+          fill="#a970ff">
+      7
     </text>
-    
-    <text y="25" text-anchor="middle" 
-          font-family="'Segoe UI', Arial, sans-serif" font-size="14" 
+    <text x="735" y="125" text-anchor="middle" 
+          font-family="'Courier New', monospace" font-size="12" font-weight="600"
           fill="#8892b0">
-      Repositórios
+      Repos
     </text>
   </g>
 </svg>

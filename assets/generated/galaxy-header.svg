@@ -1,35 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="850" height="280" viewBox="0 0 850 280">
+<svg xmlns="http://www.w3.org/2000/svg" width="850" height="300" viewBox="0 0 850 300">
   <defs>
-    <!-- Gradientes -->
-    <radialGradient id="coreGlow" cx="50%" cy="50%">
-      <stop offset="0%" style="stop-color:#ffffff;stop-opacity:0.9" />
-      <stop offset="30%" style="stop-color:#00d9ff;stop-opacity:0.7" />
-      <stop offset="70%" style="stop-color:#a970ff;stop-opacity:0.3" />
+    <radialGradient id="centerGlow" cx="50%" cy="50%">
+      <stop offset="0%" style="stop-color:#00d9ff;stop-opacity:0.8" />
+      <stop offset="50%" style="stop-color:#a970ff;stop-opacity:0.4" />
       <stop offset="100%" style="stop-color:#0a0e27;stop-opacity:0" />
     </radialGradient>
     
-    <linearGradient id="spiralGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#00d9ff;stop-opacity:0.9" />
-      <stop offset="50%" style="stop-color:#a970ff;stop-opacity:0.7" />
-      <stop offset="100%" style="stop-color:#ffb800;stop-opacity:0.5" />
-    </linearGradient>
-    
-    <linearGradient id="textGlow" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#00d9ff;stop-opacity:0.8" />
-      <stop offset="50%" style="stop-color:#e0e6f7;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#a970ff;stop-opacity:0.8" />
-    </linearGradient>
-    
-    <!-- Filtros para glow -->
     <filter id="glow">
-      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
-      <feMerge>
-        <feMergeNode in="coloredBlur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
-    
-    <filter id="softGlow">
       <feGaussianBlur stdDeviation="2" result="coloredBlur"/>
       <feMerge>
         <feMergeNode in="coloredBlur"/>
@@ -38,124 +15,197 @@
     </filter>
   </defs>
   
-  <!-- Background com gradiente -->
-  <rect width="850" height="280" fill="#0a0e27"/>
-  <rect width="850" height="280" fill="url(#coreGlow)" opacity="0.15"/>
+  <!-- Background -->
+  <rect width="850" height="300" fill="#0a0e27"/>
   
   <!-- Starfield -->
-  <g opacity="0.7">
-    <circle cx="50" cy="30" r="1.5" fill="#ffffff" opacity="0.8"/>
-    <circle cx="150" cy="50" r="1.2" fill="#ffffff" opacity="0.6"/>
-    <circle cx="250" cy="40" r="1.8" fill="#ffffff" opacity="0.9"/>
-    <circle cx="350" cy="60" r="1.0" fill="#ffffff" opacity="0.5"/>
-    <circle cx="450" cy="35" r="1.4" fill="#ffffff" opacity="0.7"/>
-    <circle cx="550" cy="55" r="1.6" fill="#ffffff" opacity="0.8"/>
-    <circle cx="650" cy="45" r="1.1" fill="#ffffff" opacity="0.6"/>
-    <circle cx="750" cy="38" r="1.7" fill="#ffffff" opacity="0.9"/>
-    <circle cx="100" cy="200" r="1.3" fill="#ffffff" opacity="0.7"/>
-    <circle cx="200" cy="220" r="1.5" fill="#ffffff" opacity="0.8"/>
-    <circle cx="300" cy="210" r="1.2" fill="#ffffff" opacity="0.6"/>
-    <circle cx="400" cy="230" r="1.6" fill="#ffffff" opacity="0.9"/>
-    <circle cx="500" cy="215" r="1.4" fill="#ffffff" opacity="0.7"/>
-    <circle cx="600" cy="225" r="1.8" fill="#ffffff" opacity="0.9"/>
-    <circle cx="700" cy="205" r="1.1" fill="#ffffff" opacity="0.5"/>
-    <circle cx="800" cy="218" r="1.5" fill="#ffffff" opacity="0.8"/>
-    <circle cx="80" cy="120" r="1.1" fill="#ffffff" opacity="0.6"/>
-    <circle cx="180" cy="140" r="1.4" fill="#ffffff" opacity="0.7"/>
-    <circle cx="280" cy="130" r="1.6" fill="#ffffff" opacity="0.8"/>
-    <circle cx="580" cy="150" r="1.3" fill="#ffffff" opacity="0.7"/>
-    <circle cx="680" cy="135" r="1.5" fill="#ffffff" opacity="0.8"/>
-    <circle cx="780" cy="145" r="1.2" fill="#ffffff" opacity="0.6"/>
+  <g opacity="0.5">
+    <circle cx="50" cy="30" r="1" fill="#ffffff" opacity="0.8"/>
+    <circle cx="150" cy="50" r="0.8" fill="#ffffff" opacity="0.6"/>
+    <circle cx="250" cy="40" r="1.2" fill="#ffffff" opacity="0.9"/>
+    <circle cx="350" cy="60" r="0.7" fill="#ffffff" opacity="0.5"/>
+    <circle cx="450" cy="35" r="1" fill="#ffffff" opacity="0.7"/>
+    <circle cx="550" cy="55" r="1.1" fill="#ffffff" opacity="0.8"/>
+    <circle cx="650" cy="45" r="0.9" fill="#ffffff" opacity="0.6"/>
+    <circle cx="750" cy="38" r="1.2" fill="#ffffff" opacity="0.9"/>
+    <circle cx="800" cy="250" r="1" fill="#ffffff" opacity="0.7"/>
+    <circle cx="100" cy="260" r="0.8" fill="#ffffff" opacity="0.6"/>
+    <circle cx="200" cy="270" r="1.1" fill="#ffffff" opacity="0.8"/>
+    <circle cx="700" cy="255" r="1" fill="#ffffff" opacity="0.7"/>
   </g>
   
-  <!-- Galáxia espiral central -->
-  <g>
-    <animateTransform
-      attributeName="transform"
-      type="rotate"
-      from="0 425 140"
-      to="360 425 140"
-      dur="120s"
-      repeatCount="indefinite"
-    />
-    
-    <!-- Núcleo galáctico -->
-    <circle cx="425" cy="140" r="50" fill="url(#coreGlow)" opacity="0.6" filter="url(#glow)">
-      <animate attributeName="r" values="50;55;50" dur="4s" repeatCount="indefinite"/>
-      <animate attributeName="opacity" values="0.6;0.8;0.6" dur="4s" repeatCount="indefinite"/>
-    </circle>
-    
-    <circle cx="425" cy="140" r="30" fill="#00d9ff" opacity="0.4">
-      <animate attributeName="r" values="30;35;30" dur="3s" repeatCount="indefinite"/>
-    </circle>
-    
-    <!-- Braços espirais melhorados -->
-    <path d="M 425 140 Q 470 120, 520 110 Q 570 105, 620 115 Q 670 125, 710 145" 
-          stroke="url(#spiralGrad)" stroke-width="4" fill="none" opacity="0.6" 
-          stroke-linecap="round" filter="url(#softGlow)"/>
-    
-    <path d="M 425 140 Q 380 160, 330 170 Q 280 175, 230 165 Q 180 155, 140 135" 
-          stroke="url(#spiralGrad)" stroke-width="4" fill="none" opacity="0.6" 
-          stroke-linecap="round" filter="url(#softGlow)"/>
-    
-    <path d="M 425 140 Q 445 175, 475 200 Q 510 225, 550 240 Q 590 250, 630 245" 
-          stroke="url(#spiralGrad)" stroke-width="3.5" fill="none" opacity="0.5" 
-          stroke-linecap="round"/>
-    
-    <path d="M 425 140 Q 405 105, 375 80 Q 340 55, 300 45 Q 260 35, 220 40" 
-          stroke="url(#spiralGrad)" stroke-width="3.5" fill="none" opacity="0.5" 
-          stroke-linecap="round"/>
-  </g>
-  
-  <!-- Partículas brilhantes -->
+  <!-- Órbitas -->
   <g opacity="0.8">
-    <circle cx="200" cy="80" r="2" fill="#00d9ff" filter="url(#softGlow)">
-      <animate attributeName="opacity" values="0.3;1;0.3" dur="2s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="650" cy="200" r="2" fill="#a970ff" filter="url(#softGlow)">
-      <animate attributeName="opacity" values="0.5;1;0.5" dur="2.5s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="750" cy="100" r="2" fill="#ffb800" filter="url(#softGlow)">
-      <animate attributeName="opacity" values="0.4;1;0.4" dur="3s" repeatCount="indefinite"/>
-    </circle>
+    <ellipse cx="425" cy="150" rx="80" ry="48" 
+             stroke="#1a1f35" stroke-width="1" 
+             fill="none" opacity="0.3"/>
+    <ellipse cx="425" cy="150" rx="130" ry="78" 
+             stroke="#1a1f35" stroke-width="1" 
+             fill="none" opacity="0.3"/>
+    <ellipse cx="425" cy="150" rx="180" ry="108" 
+             stroke="#1a1f35" stroke-width="1" 
+             fill="none" opacity="0.3"/>
   </g>
   
-  <!-- Estrelas cadentes -->
-  <g>
-    <line x1="120" y1="40" x2="170" y2="70" stroke="#00d9ff" stroke-width="2" opacity="0" stroke-linecap="round">
-      <animate attributeName="opacity" values="0;0.8;0" dur="2.5s" begin="0s" repeatCount="indefinite"/>
-      <animateTransform attributeName="transform" type="translate" 
-                        from="0 0" to="50 30" dur="2.5s" begin="0s" repeatCount="indefinite"/>
-    </line>
-    <line x1="680" y1="60" x2="730" y2="90" stroke="#a970ff" stroke-width="2" opacity="0" stroke-linecap="round">
-      <animate attributeName="opacity" values="0;0.8;0" dur="2.5s" begin="1.2s" repeatCount="indefinite"/>
-      <animateTransform attributeName="transform" type="translate" 
-                        from="0 0" to="50 30" dur="2.5s" begin="1.2s" repeatCount="indefinite"/>
-    </line>
-  </g>
-  
-  <!-- Texto com efeitos -->
-  <g filter="url(#softGlow)">
-    <text x="425" y="75" text-anchor="middle" 
-          font-family="'Segoe UI', 'SF Pro Display', -apple-system, sans-serif" 
-          font-size="52" font-weight="700" 
-          fill="url(#textGlow)" 
-          letter-spacing="1">
-      Hyttalo Costa
+  <!-- Centro com inicial -->
+  <g filter="url(#glow)">
+    <circle cx="425" cy="150" r="35" fill="url(#centerGlow)" opacity="0.6">
+      <animate attributeName="r" values="35;38;35" dur="3s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="425" cy="150" r="30" stroke="#00d9ff" 
+            stroke-width="2" fill="#0a0e27" opacity="0.9"/>
+    <text x="425" y="162" text-anchor="middle" 
+          font-family="'Segoe UI', Arial, sans-serif" font-size="32" font-weight="bold" 
+          fill="#00d9ff">
+      H
     </text>
   </g>
   
-  <text x="425" y="230" text-anchor="middle" 
-        font-family="'Segoe UI', 'SF Pro Display', -apple-system, sans-serif" 
-        font-size="22" font-weight="400"
-        fill="#8892b0" 
-        letter-spacing="0.5">
+  <!-- Tecnologias orbitando -->
+  <g>
+    <!-- Órbita 1 -->
+    <g>
+      <circle cx="425" cy="102" r="4" fill="#00d9ff" opacity="0.8">
+        <animate attributeName="opacity" values="0.6;1;0.6" dur="2s" repeatCount="indefinite"/>
+      </circle>
+      <text x="425" y="92" text-anchor="middle" 
+            font-family="'Courier New', monospace" font-size="11" 
+            fill="#00d9ff" opacity="0.9">
+        Java
+      </text>
+    </g>
+    
+    <g>
+      <circle cx="505" cy="150" r="4" fill="#00d9ff" opacity="0.8">
+        <animate attributeName="opacity" values="0.6;1;0.6" dur="2s" repeatCount="indefinite"/>
+      </circle>
+      <text x="505" y="140" text-anchor="middle" 
+            font-family="'Courier New', monospace" font-size="11" 
+            fill="#00d9ff" opacity="0.9">
+        Spring Boot
+      </text>
+    </g>
+    
+    <g>
+      <circle cx="425" cy="198" r="4" fill="#00d9ff" opacity="0.8">
+        <animate attributeName="opacity" values="0.6;1;0.6" dur="2s" repeatCount="indefinite"/>
+      </circle>
+      <text x="425" y="218" text-anchor="middle" 
+            font-family="'Courier New', monospace" font-size="11" 
+            fill="#00d9ff" opacity="0.9">
+        Node.js
+      </text>
+    </g>
+    
+    <g>
+      <circle cx="345" cy="150" r="4" fill="#00d9ff" opacity="0.8">
+        <animate attributeName="opacity" values="0.6;1;0.6" dur="2s" repeatCount="indefinite"/>
+      </circle>
+      <text x="345" y="140" text-anchor="middle" 
+            font-family="'Courier New', monospace" font-size="11" 
+            fill="#00d9ff" opacity="0.9">
+        Docker
+      </text>
+    </g>
+    
+    <!-- Órbita 2 -->
+    <g>
+      <circle cx="510" cy="110" r="4" fill="#a970ff" opacity="0.8">
+        <animate attributeName="opacity" values="0.6;1;0.6" dur="2s" repeatCount="indefinite"/>
+      </circle>
+      <text x="510" y="100" text-anchor="middle" 
+            font-family="'Courier New', monospace" font-size="11" 
+            fill="#a970ff" opacity="0.9">
+        React
+      </text>
+    </g>
+    
+    <g>
+      <circle cx="555" cy="150" r="4" fill="#a970ff" opacity="0.8">
+        <animate attributeName="opacity" values="0.6;1;0.6" dur="2s" repeatCount="indefinite"/>
+      </circle>
+      <text x="555" y="140" text-anchor="middle" 
+            font-family="'Courier New', monospace" font-size="11" 
+            fill="#a970ff" opacity="0.9">
+        TypeScript
+      </text>
+    </g>
+    
+    <g>
+      <circle cx="510" cy="190" r="4" fill="#a970ff" opacity="0.8">
+        <animate attributeName="opacity" values="0.6;1;0.6" dur="2s" repeatCount="indefinite"/>
+      </circle>
+      <text x="510" y="210" text-anchor="middle" 
+            font-family="'Courier New', monospace" font-size="11" 
+            fill="#a970ff" opacity="0.9">
+        Next.js
+      </text>
+    </g>
+    
+    <g>
+      <circle cx="340" cy="110" r="4" fill="#a970ff" opacity="0.8">
+        <animate attributeName="opacity" values="0.6;1;0.6" dur="2s" repeatCount="indefinite"/>
+      </circle>
+      <text x="340" y="100" text-anchor="middle" 
+            font-family="'Courier New', monospace" font-size="11" 
+            fill="#a970ff" opacity="0.9">
+        Tailwind
+      </text>
+    </g>
+    
+    <!-- Órbita 3 -->
+    <g>
+      <circle cx="605" cy="150" r="4" fill="#ffb800" opacity="0.8">
+        <animate attributeName="opacity" values="0.6;1;0.6" dur="2s" repeatCount="indefinite"/>
+      </circle>
+      <text x="605" y="140" text-anchor="middle" 
+            font-family="'Courier New', monospace" font-size="11" 
+            fill="#ffb800" opacity="0.9">
+        PostgreSQL
+      </text>
+    </g>
+    
+    <g>
+      <circle cx="560" cy="210" r="4" fill="#ffb800" opacity="0.8">
+        <animate attributeName="opacity" values="0.6;1;0.6" dur="2s" repeatCount="indefinite"/>
+      </circle>
+      <text x="560" y="230" text-anchor="middle" 
+            font-family="'Courier New', monospace" font-size="11" 
+            fill="#ffb800" opacity="0.9">
+        MySQL
+      </text>
+    </g>
+    
+    <g>
+      <circle cx="290" cy="210" r="4" fill="#ffb800" opacity="0.8">
+        <animate attributeName="opacity" values="0.6;1;0.6" dur="2s" repeatCount="indefinite"/>
+      </circle>
+      <text x="290" y="230" text-anchor="middle" 
+            font-family="'Courier New', monospace" font-size="11" 
+            fill="#ffb800" opacity="0.9">
+        Git
+      </text>
+    </g>
+  </g>
+  
+  <!-- Nome -->
+  <text x="425" y="45" text-anchor="middle" 
+        font-family="'Segoe UI', Arial, sans-serif" font-size="38" font-weight="700" 
+        fill="#e0e6f7">
+    Hyttalo Costa
+  </text>
+  
+  <!-- Subtítulo -->
+  <text x="425" y="72" text-anchor="middle" 
+        font-family="'Segoe UI', Arial, sans-serif" font-size="16" font-weight="400"
+        fill="#8892b0">
     Desenvolvedor Fullstack | Backend em foco
   </text>
   
-  <!-- Linha decorativa -->
-  <line x1="250" y1="245" x2="600" y2="245" 
-        stroke="#00d9ff" stroke-width="1" opacity="0.3">
-    <animate attributeName="opacity" values="0.2;0.5;0.2" dur="3s" repeatCount="indefinite"/>
-  </line>
+  <!-- Filosofia -->
+  <text x="425" y="285" text-anchor="middle" 
+        font-family="'Segoe UI', Arial, sans-serif" font-size="14" 
+        font-style="italic" fill="#8892b0" opacity="0.8">
+    Let's build something amazing together!
+  </text>
 </svg>
