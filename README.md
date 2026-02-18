@@ -1,12 +1,10 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=297&color=gradient&text=Eu%20sou%20Hyttalo%20Costa&textBg=false&animation=fadeIn&desc=Desenvolvedor%20Jr.&descAlign=79&descAlignY=62&fontColor=#fff" />
+  <img src="./assets/generated/galaxy-header.svg" alt="Galaxy Header" width="100%"/>
 </div>
-  
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=EuHttl&color=A970FF&label=PROFILE+VIEWS" alt="Visualizações do Perfil" />
 </div>
-
-<br>
 
 <br>
 
@@ -22,30 +20,26 @@
 
 <br>
 
-## 🛠️ Tech Stack
+## 📊 Mission Telemetry
 
 <div align="center">
-  <p>Linguagens, Frameworks e Ferramentas que utilizo no dia a dia:</p>
-  
-  <br>
-  
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven&theme=dark" alt="Java Stack" /><br><br>
-  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,express,prisma&theme=dark" alt="Node Stack" /><br><br>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,styledcomponents&theme=dark" alt="Frontend" /><br><br>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,docker,git,github,vscode&theme=dark" alt="Tools" />
+  <img src="./assets/generated/stats-card.svg" alt="GitHub Stats" width="100%"/>
 </div>
 
 <br>
 
-## 📊 Analytics
+## 🛠️ Tech Stack & Focus Sectors
 
 <div align="center">
-  <a href="https://github.com/euhttl/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=euhttl" />
-  </a>
-  <a href="https://github.com/euhttl/convoychat">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=euhttl&layout=compact&langs_count=8" />
-  </a>
+  <img src="./assets/generated/tech-stack.svg" alt="Tech Stack" width="100%"/>
+</div>
+
+<br>
+
+## ⭐ Featured Projects
+
+<div align="center">
+  <img src="./assets/generated/projects-constellation.svg" alt="Featured Projects" width="100%"/>
 </div>
 
 <br>
@@ -72,4 +66,9 @@
   <img src="https://readme-typing-svg.vercel.app/?color=A970FF&size=18&center=true&vCenter=true&width=500&lines=Let's+build+something+amazing+together!⭐" alt="Footer" />
 </div>
 
+<br>
+
+<div align="center">
+  <sub>🌌 Profile dinamicamente gerado com <a href="https://github.com/vinimlo/galaxy-profile">Galaxy Profile</a></sub>
+</div>
 

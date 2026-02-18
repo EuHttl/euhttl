@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="850" height="280" viewBox="0 0 850 280">
+  <defs>
+    <radialGradient id="coreGlow" cx="50%" cy="50%">
+      <stop offset="0%" style="stop-color:#ffffff;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#00d9ff;stop-opacity:0.6" />
+      <stop offset="100%" style="stop-color:#0a0e27;stop-opacity:0" />
+    </radialGradient>
+    
+    <linearGradient id="spiralGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#00d9ff;stop-opacity:0.8" />
+      <stop offset="50%" style="stop-color:#a970ff;stop-opacity:0.6" />
+      <stop offset="100%" style="stop-color:#ffb800;stop-opacity:0.4" />
+    </linearGradient>
+    
+    <animateTransform
+      id="rotateGalaxy"
+      attributeName="transform"
+      type="rotate"
+      from="0 425 140"
+      to="360 425 140"
+      dur="120s"
+      repeatCount="indefinite"
+    />
+  </defs>
+  
+  <rect width="850" height="280" fill="#0a0e27"/>
+  
+  <g opacity="0.6">
+    <circle cx="50" cy="30" r="1.5" fill="#ffffff" opacity="0.8"/>
+    <circle cx="150" cy="50" r="1.2" fill="#ffffff" opacity="0.6"/>
+    <circle cx="250" cy="40" r="1.8" fill="#ffffff" opacity="0.9"/>
+    <circle cx="350" cy="60" r="1.0" fill="#ffffff" opacity="0.5"/>
+    <circle cx="450" cy="35" r="1.4" fill="#ffffff" opacity="0.7"/>
+    <circle cx="550" cy="55" r="1.6" fill="#ffffff" opacity="0.8"/>
+    <circle cx="650" cy="45" r="1.1" fill="#ffffff" opacity="0.6"/>
+    <circle cx="750" cy="38" r="1.7" fill="#ffffff" opacity="0.9"/>
+    <circle cx="100" cy="200" r="1.3" fill="#ffffff" opacity="0.7"/>
+    <circle cx="200" cy="220" r="1.5" fill="#ffffff" opacity="0.8"/>
+    <circle cx="300" cy="210" r="1.2" fill="#ffffff" opacity="0.6"/>
+    <circle cx="400" cy="230" r="1.6" fill="#ffffff" opacity="0.9"/>
+    <circle cx="500" cy="215" r="1.4" fill="#ffffff" opacity="0.7"/>
+    <circle cx="600" cy="225" r="1.8" fill="#ffffff" opacity="0.9"/>
+    <circle cx="700" cy="205" r="1.1" fill="#ffffff" opacity="0.5"/>
+    <circle cx="800" cy="218" r="1.5" fill="#ffffff" opacity="0.8"/>
+  </g>
+  
+  <g>
+    <animateTransform
+      attributeName="transform"
+      type="rotate"
+      from="0 425 140"
+      to="360 425 140"
+      dur="120s"
+      repeatCount="indefinite"
+    />
+    
+    <circle cx="425" cy="140" r="40" fill="url(#coreGlow)" opacity="0.8">
+      <animate attributeName="r" values="40;45;40" dur="4s" repeatCount="indefinite"/>
+    </circle>
+    
+    <path d="M 425 140 Q 450 120, 480 110 T 540 100 T 600 110" 
+          stroke="url(#spiralGrad)" stroke-width="3" fill="none" opacity="0.5"/>
+    <path d="M 425 140 Q 400 160, 370 170 T 310 180 T 250 170" 
+          stroke="url(#spiralGrad)" stroke-width="3" fill="none" opacity="0.5"/>
+    <path d="M 425 140 Q 440 165, 460 185 T 500 220 T 540 245" 
+          stroke="url(#spiralGrad)" stroke-width="2.5" fill="none" opacity="0.4"/>
+  </g>
+  
+  <g>
+    <line x1="100" y1="50" x2="150" y2="80" stroke="#e0e6f7" stroke-width="1.5" opacity="0">
+      <animate attributeName="opacity" values="0;1;0" dur="3s" begin="0s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="translate" 
+                        from="0 0" to="50 30" dur="3s" begin="0s" repeatCount="indefinite"/>
+    </line>
+    <line x1="700" y1="80" x2="750" y2="110" stroke="#e0e6f7" stroke-width="1.5" opacity="0">
+      <animate attributeName="opacity" values="0;1;0" dur="3s" begin="1.5s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="translate" 
+                        from="0 0" to="50 30" dur="3s" begin="1.5s" repeatCount="indefinite"/>
+    </line>
+  </g>
+  
+  <text x="425" y="60" text-anchor="middle" 
+        font-family="'Segoe UI', Arial, sans-serif" font-size="48" font-weight="bold" 
+        fill="#e0e6f7">
+    Hyttalo Costa
+  </text>
+  
+  <text x="425" y="240" text-anchor="middle" 
+        font-family="'Segoe UI', Arial, sans-serif" font-size="20" 
+        fill="#8892b0">
+    Desenvolvedor Fullstack | Backend em foco
+  </text>
+</svg>
