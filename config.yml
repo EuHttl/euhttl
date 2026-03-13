@@ -1,0 +1,89 @@
+# Configuração do Galaxy Profile
+# Copie este arquivo para config.yml e personalize com suas informações
+
+username: "EuHttl"
+
+profile:
+  name: "Hyttalo Costa"
+  tagline: "Desenvolvedor Fullstack | Backend em foco"
+  company: ""
+  location: "Brasil"
+  bio: "Desenvolvedor apaixonado por arquitetura de software e soluções escaláveis"
+  philosophy: "Let's build something amazing together!"
+
+social:
+  email: "hyttalo2002@gmail.com"
+  linkedin: "hyttalo-costa-1991841b2"
+  website: ""
+
+# Três áreas de foco - cada uma representa um "braço" da galáxia
+galaxy_arms:
+  - name: "Backend"
+    color: "synapse_cyan"  # azul ciano
+    tech:
+      - "Java"
+      - "Spring Boot"
+      - "Hibernate"
+      - "Node.js"
+      - "Express"
+      - "Prisma"
+  
+  - name: "Frontend"
+    color: "dendrite_violet"  # violeta
+    tech:
+      - "React"
+      - "Next.js"
+      - "TypeScript"
+      - "Tailwind CSS"
+      - "Styled Components"
+  
+  - name: "DevOps & Tools"
+    color: "axon_amber"  # âmbar/dourado
+    tech:
+      - "Docker"
+      - "PostgreSQL"
+      - "MySQL"
+      - "Git"
+      - "GitHub"
+
+# Projetos em destaque - serão renderizados como "sistemas estelares"
+projects:
+  - repo: "EuHttl/login-auth-api"
+    arm: 0  # Backend
+    description: "API de autenticação e login"
+  
+  - repo: "EuHttl/Curriculo-Responsivo"
+    arm: 1  # Frontend
+    description: "Currículo responsivo moderno"
+  
+  - repo: "EuHttl/api_filmes"
+    arm: 0  # Backend
+    description: "API REST para gerenciamento de filmes"
+
+# Tema de cores (opcional - use os valores padrão ou customize)
+theme:
+  void_black: "#0a0e27"
+  nebula_bg: "#0f1420"
+  starfield_dim: "#1a1f35"
+  synapse_cyan: "#00d9ff"
+  dendrite_violet: "#a970ff"
+  axon_amber: "#ffb800"
+  text_bright: "#e0e6f7"
+  text_dim: "#8892b0"
+  glow_core: "#ffffff"
+
+# Configuração de estatísticas
+stats:
+  metrics:
+    commits: true
+    stars: true
+    prs: true
+    issues: true
+    repos: true
+
+# Configuração de linguagens
+languages:
+  exclude:
+    - "HTML"
+    - "CSS"
+  max_display: 6
