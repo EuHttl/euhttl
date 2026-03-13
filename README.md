@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/generated/galaxy-header.svg" alt="Galaxy Header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20&text=Hyttalo+Costa&animation=fadeIn&fontColor=fff&fontAlignY=35&desc=Desenvolvedor+Fullstack+%7C+Backend+em+foco&descAlignY=51" alt="Header" width="100%" />
 </div>
 
 <div align="center">
@@ -20,27 +20,36 @@
 
 <br>
 
-## 📊 Mission Telemetry
+## 📊 Analytics
 
 <div align="center">
-  <img src="./assets/generated/stats-card.svg" alt="GitHub Stats" width="100%"/>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EuHttl&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EuHttl&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages" />
+  </a>
 </div>
 
 <br>
 
-## 🛠️ Tech Stack & Focus Sectors
+## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="./assets/generated/tech-stack.svg" alt="Tech Stack" width="100%"/>
+  <p>Linguagens, frameworks e ferramentas que utilizo:</p>
+  <br>
+  <img src="https://skillicons.dev/icons?i=java,spring,maven,nodejs,express,prisma" alt="Backend" /><br><br>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,html,css,tailwind" alt="Frontend" /><br><br>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,docker,git,github,vscode" alt="Tools" />
 </div>
 
 <br>
 
 ## ⭐ Featured Projects
 
-<div align="center">
-  <img src="./assets/generated/projects-constellation.svg" alt="Featured Projects" width="100%"/>
-</div>
+- [**login-auth-api**](https://github.com/EuHttl/login-auth-api) — API de autenticação e login
+- [**Curriculo-Responsivo**](https://github.com/EuHttl/Curriculo-Responsivo) — Currículo responsivo moderno
+- [**api_filmes**](https://github.com/EuHttl/api_filmes) — API REST para gerenciamento de filmes
 
 <br>
 <hr>
@@ -65,10 +74,3 @@
 <div align="center">
   <img src="https://readme-typing-svg.vercel.app/?color=A970FF&size=18&center=true&vCenter=true&width=500&lines=Let's+build+something+amazing+together!⭐" alt="Footer" />
 </div>
-
-<br>
-
-<div align="center">
-  <sub>🌌 Profile dinamicamente gerado com <a href="https://github.com/vinimlo/galaxy-profile">Galaxy Profile</a></sub>
-</div>
-
