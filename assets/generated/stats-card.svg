@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="850" height="160" viewBox="0 0 850 160">
+  <!-- Background -->
+  <rect width="850" height="160" fill="#0f1420" rx="10"/>
+  
+  <!-- Borda -->
+  <rect x="2" y="2" width="846" height="156" 
+        fill="none" stroke="#1a1f35" stroke-width="1" 
+        opacity="0.3" rx="10"/>
+  
+  <!-- Título -->
+  <text x="30" y="28" 
+        font-family="'Courier New', monospace" font-size="14" font-weight="600" 
+        fill="#8892b0" letter-spacing="2">
+    MISSION TELEMETRY
+  </text>
+  
+  <!-- Métricas -->
+  <g>
+    <!-- Commits -->
+    <text x="125" y="60" text-anchor="middle" font-size="28">💠</text>
+    <text x="125" y="100" text-anchor="middle" 
+          font-family="'Courier New', monospace" font-size="32" font-weight="bold" 
+          fill="#00d9ff">
+      1.2K
+    </text>
+    <text x="125" y="125" text-anchor="middle" 
+          font-family="'Courier New', monospace" font-size="12" font-weight="600"
+          fill="#8892b0">
+      Commits
+    </text>
+  </g>
+
+  <g>
+    <!-- Stars -->
+    <text x="277.5" y="60" text-anchor="middle" font-size="28">⭐</text>
+    <text x="277.5" y="100" text-anchor="middle" 
+          font-family="'Courier New', monospace" font-size="32" font-weight="bold" 
+          fill="#ffb800">
+      7
+    </text>
+    <text x="277.5" y="125" text-anchor="middle" 
+          font-family="'Courier New', monospace" font-size="12" font-weight="600"
+          fill="#8892b0">
+      Stars
+    </text>
+  </g>
+
+  <g>
+    <!-- PRs -->
+    <text x="430" y="60" text-anchor="middle" font-size="28">🔄</text>
+    <text x="430" y="100" text-anchor="middle" 
+          font-family="'Courier New', monospace" font-size="32" font-weight="bold" 
+          fill="#00d9ff">
+      61
+    </text>
+    <text x="430" y="125" text-anchor="middle" 
+          font-family="'Courier New', monospace" font-size="12" font-weight="600"
+          fill="#8892b0">
+      PRs
+    </text>
+  </g>
+
+  <g>
+    <!-- Issues -->
+    <text x="582.5" y="60" text-anchor="middle" font-size="28">❓</text>
+    <text x="582.5" y="100" text-anchor="middle" 
+          font-family="'Courier New', monospace" font-size="32" font-weight="bold" 
+          fill="#ffb800">
+      2
+    </text>
+    <text x="582.5" y="125" text-anchor="middle" 
+          font-family="'Courier New', monospace" font-size="12" font-weight="600"
+          fill="#8892b0">
+      Issues
+    </text>
+  </g>
+
+  <g>
+    <!-- Repos -->
+    <text x="735" y="60" text-anchor="middle" font-size="28">📦</text>
+    <text x="735" y="100" text-anchor="middle" 
+          font-family="'Courier New', monospace" font-size="32" font-weight="bold" 
+          fill="#a970ff">
+      7
+    </text>
+    <text x="735" y="125" text-anchor="middle" 
+          font-family="'Courier New', monospace" font-size="12" font-weight="600"
+          fill="#8892b0">
+      Repos
+    </text>
+  </g>
+</svg>
